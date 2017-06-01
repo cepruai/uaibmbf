@@ -3,7 +3,3 @@ Session information:
 ```{r}
 sessionInfo()
 ```
-
-```{r}
-hist(ViValRest$store_rating)
-```
