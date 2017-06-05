@@ -30,7 +30,7 @@ output: html_document
     + Institución: Universidad Diego Portales
     + Contacto: nicolas.garrido@udp.cl
   
-- <a href="lopez.html"> Esteban López </a>
+- <a href="xxx"> Esteban López </a>
 
     + Rol: Post doctorado
     + Institución: Centro de Economía y Política Regional
