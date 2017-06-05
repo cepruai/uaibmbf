@@ -1,0 +1,55 @@
+---
+title: "Rocío Valdebenito"
+output: html_document
+---
+<html>
+<body>
+
+<a href="xxx"><img src="Rocío-Valdebenito.JPG"align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td>  Economía de la Educación, Microeconomía Aplicada. </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td> Ingeniero Comercial y Magister en Management Science, Universidad Adolfo Ibáñez 2014.
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> rocio.valdebenito@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td>  </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Rocío Valdebenito es Ingeniero Comercial y Master en Management Science de la Universidad Adolfo Ibáñez. Desde agosto 2014 es investigadora asociada del CEPR, donde trabaja temas de educación técnica profesional y la transición de estos alumnos a la educación superior. También enfoca su análisis en economía regional, principalmente las desigualdades regionales en torno a calidad de vida y educación. Ha sido ayudante de investigación en el "Índice de Competitividad Regional" a cargo del Centro de Sistemas Públicos de la Universidad de Chile, y realizó una estadía de investigación en la Universidad de Illinois, Urbana-Champaign. Sus temas de interés son la economía de la educación, microeconomía aplicada, economía regional y la econometría espacial. </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+</body>
+
+
+</html> 

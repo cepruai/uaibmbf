@@ -1,0 +1,59 @@
+---
+title: "Felipe Morales"
+output: html_document
+---
+<html>
+<body>
+
+<a href="xxx"><img src="FelipeMorales.JPG"align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td>  Organización Industrial & Matrices Insumo Producto </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:
+</font>
+ </td>
+
+<td> 
+ Magíster en Economía, Universidad Adolfo Ibáñez
+
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> f.morales@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td>  </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Felipe Morales actualmente se desempeña como ayudante de investigación en el Centro de Economía y Política Regional (CEPR), trabajando en tópicos relacionados a las matrices input-output, enmarcado en el proyecto de investigación CONICYT-BMBF 150061. Además, se desempeña como profesor instructor en la Universidad Adolfo Ibáñez. Ha sido ayudante de investigación en tópicos relacionados a regulación de mercados energéticos, además de trabajar realizando pronósticos con modelos macro-econométricos. Sus áreas de interés son la organización industrial empírica, la teoría macroeconómica y la economía de la educación. 
+ </td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html> 

@@ -1,0 +1,57 @@
+---
+title: "Juan Pedro Eberhard"
+output: html_document
+---
+<html>
+<body>
+
+<a href="xxx"><img src="Juan-Pedro-Eberhard.JPG"align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td>  Macroeconomía , Economía del trabajo. </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td> Ph. D., Economics, Yale University, United States, 2010.
+M. Phil., Economics, Yale University, United States, 2008.
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> juan.eberhard@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Profesor Asistente e Investigador de la Escuela de Negocios. Fue profesor asistente en Marshall School of Business, University of Southern California, Estados Unidos. Sus áreas de investigación son Macroeconomía y Economía del trabajo. Su trabajo se centra en modelos con agentes heterogéneos y sus aplicaciones a la acumulación de capital humano. </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html>

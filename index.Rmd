@@ -8,31 +8,31 @@ getwd()
 title: "BMBF UAI-GWS"
 ---
 
-# Development of Sustainable Mining Strategies in Chile with a Regionalized National Model
+### Development of Sustainable Mining Strategies in Chile with a Regionalized National Model
 
 
-*Contexto y Relevancia del Proyecto*
+#### Contexto y Relevancia del Proyecto 
 
-La industria del cobre hist?ricamente ha tenido una gran relevancia en la econom?a chilena superando durante per?odos prolongados el 50% de la participaci?n de las exportaciones nacionales. Por su parte, en t?rminos de valor agregado, donde el cobre tiene baja participaci?n, existe un grado de volatilidad mucho m?s alto.  Mientras el a?o 2003 el cobre representaba un 8% del valor agregado de la econom?a nacional para el a?o 2007 este representaba m?s del 20% del valor agregado nacional.Esta alta volatilidad, seg?n instituciones como el Banco Central, puede explicar de forma importante producto del cambio de precios internacionales.
+La industria del cobre históricamente ha tenido una gran relevancia en la economía chilena superando durante períodos prolongados el 50% de la participación de las exportaciones nacionales. Por su parte, en términos de valor agregado, donde el cobre tiene baja participación, existe un grado de volatilidad mucho más alto.  Mientras el año 2003 el cobre representaba un 8% del valor agregado de la economía nacional para el año 2007 este representaba más del 20% del valor agregado nacional.Esta alta volatilidad, según instituciones como el Banco Central, puede explicar de forma importante producto del cambio de precios internacionales.
 
-Si bien la producci?n de cobre en Chile se distribuye en 5 regiones , la producci?n se concentra primordialmente en la Regi?n de Antofagasta y sus dos regiones vecinas. 
+Si bien la producción de cobre en Chile se distribuye en 5 regiones , la producción se concentra primordialmente en la Región de Antofagasta y sus dos regiones vecinas. 
 
-Desde comienzo de los a?os 90', coincidiendo con el retorno de la democracia, la inversi?n extranjera nacional ha aumentado exponencialmente y con esto tambi?n la producci?n minera. Este fen?meno ha sido fundamental para explicar durante estas d?cadas la generaci?n de empleo y riqueza en nuestro pa?s. 
+Desde comienzo de los años 90', coincidiendo con el retorno de la democracia, la inversión extranjera nacional ha aumentado exponencialmente y con esto también la producción minera. Este fenómeno ha sido fundamental para explicar durante estas décadas la generación de empleo y riqueza en nuestro país. 
 
-Entre el a?o 2008 y el 2014 se comenz? a experimentar una ca?da significativa en el precio del cobre, junto a un aumento progresivo de los costos en la extracci?n del mismo mineral, fen?meno que puede explicar en parte la ca?da en la generaci?n de riquezas y de empleo, tanto a nivel nacional como nivel regional. 
+Entre el año 2008 y el 2014 se comenzó a experimentar una caída significativa en el precio del cobre, junto a un aumento progresivo de los costos en la extracción del mismo mineral, fenómeno que puede explicar en parte la caída en la generación de riquezas y de empleo, tanto a nivel nacional como nivel regional. 
 
-Si bien los evaluadores de pol?ticas p?blicas actualmente, a trav?s de las matrices insumo-producto, pueden medir los efectos de variaciones de la industria minera sobre la econom?a nacional, no se poseen modelos que permitan el estudio de estos efectos a nivel regional. Dada la concentraci?n de esta industria en ciertas regiones del pa?s, esta informaci?n puede ser relevante a la hora de desarrollar pol?ticas que busquen el crecimiento y desarrollo regional.
+Si bien los evaluadores de políticas públicas actualmente, a través de las matrices insumo-producto, pueden medir los efectos de variaciones de la industria minera sobre la economía nacional, no se poseen modelos que permitan el estudio de estos efectos a nivel regional. Dada la concentración de esta industria en ciertas regiones del país, esta información puede ser relevante a la hora de desarrollar políticas que busquen el crecimiento y desarrollo regional.
 
-Entendiendo la necesidad de mejor informaci?n a nivel espacial de los efectos del ciclo del precio del cobre, y permitiendo utilizar este tipo de an?lisis para cualquier sector o producto en espec?fico, equipos de investigaci?n patrocinados por la Universidad Adolfo Ib??ez y la Gesellschaft f?r Wirtschaftliche Strukturforschung mbH, financiados por CONICYT, buscar?n elaborar proyectos que permitan cuantificar impactos del sector minero a nivel regional.
+Entendiendo la necesidad de mejor información a nivel espacial de los efectos del ciclo del precio del cobre, y permitiendo utilizar este tipo de análisis para cualquier sector o producto en específico, equipos de investigación patrocinados por la Universidad Adolfo Ibáñez y la Gesellschaft für Wirtschaftliche Strukturforschung mbH, financiados por CONICYT, buscarán elaborar proyectos que permitan cuantificar impactos del sector minero a nivel regional.
 
 
 <html>
 <body>
-<a href="www.udp.cl"><img src="udp_logo.jpg" align= top * left * bottom>
-<a href="xxx"><img src="uai_logo.jpg" align= top * left * bottom>
-<a href="xxx"><img src="cepr_logo.jpg" align= top * left * bottom>
-<a href="xxx"><img src="bmbf_logo.jpg" align= top * left * bottom>
-<a href="xxx"><img src="gws_logo.svg" align= top * left * bottom>
+<a href="xxx"><img src="udp_logo.jpg" width="100" height="150" align= top * left * bottom>
+<a href="xxx"><img src="uai_logo.jpg" width="100" height="150" align= top * left * bottom>
+<a href="xxx"><img src="cepr_logo.jpg" width="100" height="150" align= top * left * bottom>
+<a href="xxx"><img src="bmbf_logo.jpg" align= top width="150" height="100" * left * bottom>
+<a href="xxx"><img src="gws_logo.svg" width="100" height="150" align= top * left * bottom>
 
 </body>
 </html>

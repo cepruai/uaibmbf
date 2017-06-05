@@ -1,5 +1,5 @@
 ---
-title: "Equipo de investigaci?n"
+title: "Equipo de investigación"
 
 output: html_document
 ---
@@ -9,61 +9,70 @@ output: html_document
 
 
 
-Centro de Econom?a y Pol?tica Regional:
+#### Centro de Economía y Política Regional:
 
-- Patricio Aroca 
+- <a href="aroca.html"> Patricio Aroca </a>
+
     + Rol: Investigador Responsable
-    + Instituci?n: Universidad Adolfo Ib??ez
+    + Institución: Universidad Adolfo Ibáñez
     + Contacto: patricio.aroca@uai.cl
 
 
-- Juan Pedro Eberhard
-  Rol: Investigador Asociado
-  Instituci?n: Universidad Adolfo Ib??ez
-  Contacto: juan.eberhard@uai.cl
+- <a href="eberhard.html"> Juan Pedro Eberhard </a>
 
-- Nicol?s Garrido
-  Rol: Investigador Asociado
-  Instituci?n: Universidad Diego Portales
-  Contacto: nicolas.garrido@udp.cl
+    + Rol: Investigador Asociado
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: juan.eberhard@uai.cl
+
+- <a href="garrido.html"> Nicolás Garrido </a>
+
+    + Rol: Investigador Asociado
+    + Institución: Universidad Diego Portales
+    + Contacto: nicolas.garrido@udp.cl
   
-- Esteban L?pez
-  Rol: Post doctorado
-  Instituci?n: Centro de Econom?a y Pol?tica Regional
-  Contacto: esteban.lopez@uai.cl
+- <a href="lopez.html"> Esteban López </a>
+
+    + Rol: Post doctorado
+    + Institución: Centro de Economía y Política Regional
+    + Contacto: esteban.lopez@uai.cl
   
-- Roc?o Valdebenito
-  Rol: Ayudante de Investigaci?n
-  Instituci?n: Centro de Econom?a y Pol?tica Regional
-  Contacto: rocio.valdebenito@uai.cl
+- <a href="valdebenito.html"> Rocío Valdebenito </a>
 
-- Felipe Morales
-  Rol: Ayudante de Investigaci?n
-  Instituci?n: Centro de Econom?a y Pol?tica Regional
-  Contacto: f.morales@uai.cl
-  
+    + Rol: Ayudante de Investigación
+    + Institución: Centro de Economía y Política Regional
+    + Contacto: rocio.valdebenito@uai.cl
 
-Institution of Economics Structure Research:
+- <a href="morales.html"> Felipe Morales </a>
 
-- Anke M?nning
-  Rol: Investigadora Responsable en el Extranjero
-  Instituci?n: GWS mbH (Institution of Economics Structures Research)
-  Contacto: moenning@gws-os.com
+    + Rol: Ayudante de Investigación
+    + Institución: Centro de Economía y Política Regional
+    + Contacto: f.morales@uai.cl
+    
+#### Institution of Economics Structure Research:
+
+- Anke Mönning
+
+    + Rol: Investigadora Responsable en el Extranjero
+    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Contacto: moenning@gws-os.com
   
 - Marc Ingo Wolter
-  Rol: Investigador Asociado en el Extranjero
-  Instituci?n: GWS mbH (Institution of Economics Structures Research)
-  Contacto: wolter@gws-os.com
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Contacto: wolter@gws-os.com
   
 - Annet Gro?mann
-  Rol: Investigador Asociado en el Extranjero
-  Instituci?n: GWS mbH (Institution of Economics Structures Research)
-  Contacto: grossman@gws-os.com
-  
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Contacto: grossman@gws-os.com
+
 - Loreto Bieritz
-  Rol: Investigador Asociado en el Extranjero
-  Instituci?n: GWS mbH (Institution of Economics Structures Research)
-  Contacto: bieritz@gws-os.com
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Contacto:  bieritz@gws-os.com
 
 
-
+- <a href="index.html"> Volver al Índice </a>

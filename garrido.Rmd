@@ -1,0 +1,66 @@
+---
+title: "Nicolás Garrido"
+
+output: html_document
+---
+
+<html>
+<body>
+
+<a href="xxx"><img src="NicolasGarrido.JPG"align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td> Cambio Tecnológico e Institucional. Instrumentos para análisis de la Complejidad. Metodología de la Ciencia. </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td>  Doctor en Economía, Universidad de Alcalá de Henares.
+
+PostDoctorado del Departamento de Economía y CEEL (Computable and Experimental Economic Laboratory) de la Universidad de Trento, Italia. 
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> nicolas.garrido@udp.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> sites.google.com/site/nicofgarrido/</td>
+</tr>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+ </font>
+</td>
+</tr>
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Otras afiliaciones </font> </td>
+<td> <font size="2" color="black">  </font> </td>
+
+</tr>
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html>

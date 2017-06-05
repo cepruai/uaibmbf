@@ -22,21 +22,3 @@ navbar:
     - text: "Resultados Preliminares"
       icon: fa-info
       href: resultados.html
-
-    - text: "More"
-      icon: fa-gear
-      menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page_a.html
-        - text: "Page B"
-          href: page_b.html
-        - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
-          href: page_c.html
-        - text: "Page D"
-          href: page_d.html
-  right:
-    - icon: fa-question fa-lg
-      href: https://example.com

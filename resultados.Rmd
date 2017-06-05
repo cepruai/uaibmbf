@@ -1,0 +1,13 @@
+---
+output: html_document
+---
+
+
+
+## Resultados Preliminares
+
+
+
+A través del desarrollo de un modelo que permitirá analizar los alcances de shocks de precios externos en el sector minero, tanto a nivel nacional como espacial, este proyecto busca generar información relevante para la discusión y elaboración de políticas públicas, enfocadas especialmente en las evaluaciones de impacto de políticas aplicadas al sector minero.
+
+Adicionalmente, este proyecto busca ayudar a impulsar la generación de publicaciones relacionadas con el sector minero y sus impactos en las diferentes regiones del país en su conjunto.
