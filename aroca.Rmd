@@ -11,12 +11,11 @@ output: html_document
 <body>
 
 
-<a href="xxx"><img src="Patricio-Aroca.jpg" align= top * left * bottom>
-
-<a href="xxx"><img src="udp_logo.jpg" align= top * left * bottom>
-
 <table border="2">
+<tr>
+<a href="xxx"><img src="Patricio-Aroca.jpg"  width="300" height="350" align= top * center * bottom>
 
+</tr>
 <tr>
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
