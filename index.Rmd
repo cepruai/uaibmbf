@@ -23,11 +23,11 @@ Entendiendo la necesidad de mejor información a nivel espacial de los efectos d
 
 <html>
 <body>
-<a href="xxx"><img src="udp_logo.jpg" width="100" height="150" align= top * left * bottom>
-<a href="xxx"><img src="uai_logo.jpg" width="100" height="150" align= top * left * bottom>
-<a href="xxx"><img src="cepr_logo.jpg" width="100" height="150" align= top * left * bottom>
-<a href="xxx"><img src="bmbf_logo.jpg" align= top width="150" height="100" * left * bottom>
-<a href="xxx"><img src="gws_logo.svg" width="100" height="150" align= top * left * bottom>
+<img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom>
+<img src="uai_logo.jpg" width="130" height="170" align= top * left * bottom>
+<img src="cepr_logo.jpg" width="130" height="170" align= top * left * bottom>
+<img src="bmbf_logo.jpg" align= top width="130" height="170" * left * bottom>
+<img src="gws_logo.svg" width="130" height="170" align= top * left * bottom>
 
 </body>
 </html>

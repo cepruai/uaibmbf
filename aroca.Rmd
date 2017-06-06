@@ -13,7 +13,7 @@ output: html_document
 
 <table border="2">
 <tr>
-<a href="xxx"><img src="Patricio-Aroca.jpg"  width="300" height="350" align= top * center * bottom>
+<img src="Patricio-Aroca.jpg"  width="300" height="350" align= top * center * bottom>
 
 </tr>
 <tr>
