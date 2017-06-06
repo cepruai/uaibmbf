@@ -48,30 +48,30 @@ output: html_document
     + Institución: Centro de Economía y Política Regional
     + Contacto: f.morales@uai.cl
     
-#### Institution of Economics Structure Research:
+#### Institute of Economics Structure Research:
 
 - Anke Mönning
 
     + Rol: Investigadora Responsable en el Extranjero
-    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: moenning@gws-os.com
   
 - Marc Ingo Wolter
 
     + Rol: Investigador Asociado en el Extranjero
-    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: wolter@gws-os.com
   
 - Annet Gro?mann
 
     + Rol: Investigador Asociado en el Extranjero
-    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: grossman@gws-os.com
 
 - Loreto Bieritz
 
     + Rol: Investigador Asociado en el Extranjero
-    + Institución: GWS mbH (Institution of Economics Structures Research)
+    + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto:  bieritz@gws-os.com
 
 

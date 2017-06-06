@@ -23,12 +23,18 @@ Entendiendo la necesidad de mejor información a nivel espacial de los efectos d
 
 <html>
 <body>
-<img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom>
-<img src="uai_logo.jpg" width="130" height="170" align= top * left * bottom>
-<img src="cepr_logo.jpg" width="130" height="170" align= top * left * bottom>
-<img src="bmbf_logo.jpg" align= top width="130" height="170" * left * bottom>
-<img src="gws_logo.svg" width="130" height="170" align= top * left * bottom>
 
+<p ALIGN="center"> <h4> Patrocinan </h4> </p>
+<img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
+<img src="educacion_ger.jpg" width="300" height="270" align= top * left * bottom>
+<img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
+
+
+<p ALIGN="center"> <h4> Desarrollan </h4> </p>
+<img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom>
+<img src="uai_logo.jpg" width="200" height="170" align= top * left * bottom>
+<img src="cepr_logo.jpg" width="200" height="170" align= top * left * bottom>
+<img src="gws_logo.svg" width="200" height="170" align= top * left * bottom>
 </body>
 </html>
 
