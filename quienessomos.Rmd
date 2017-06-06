@@ -6,6 +6,3 @@ output: html_document
 BMBF corresponde a un proyecto de investigación colaborativa, financiado por CONICYT, que tiene como eje principal de interés la generación de información relevante para la implementación de políticas públicas relacionadas al sector minero. Este proyecto se encuentra patrocinado actualmente por la Universidad Adolfo Ibáñez y la Institution of Economics Structures Research, además de tener investigadores asociados a la Universidad Diego Portales.
 
 
-#### Líneas de Investigación
-
-Este proyecto tiene como eje principar el desarrollar un modelo econométrico y de insumo producto que permita evaluar los impactos del sector minero en la economía regional y nacional, analizando sus dinámicas a través de tiempo. 
