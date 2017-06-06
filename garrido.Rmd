@@ -7,7 +7,7 @@ output: html_document
 <html>
 <body>
 
-<img src="NicolasGarrido.jpg" width="300" height="350" align= top * left * bottom>
+<img src="NicolasGarrido.jpg" width="299" height="350" align= top * left * bottom>
 
 <table border="2">
 
