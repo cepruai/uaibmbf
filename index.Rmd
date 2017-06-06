@@ -1,10 +1,5 @@
 
 ---
-rm(list=ls())
-getwd()
----
-
----
 title: "BMBF UAI-GWS"
 ---
 

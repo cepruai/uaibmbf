@@ -5,7 +5,7 @@ output: html_document
 <html>
 <body>
 
-<a href="xxx"><img src="Juan-Pedro-Eberhard.JPG"align= top * left * bottom>
+<a href="xxx"><img src="Juan-Pedro-Eberhard.JPG" width="300" height="350" align= top * left * bottom>
 
 <table border="2">
 
@@ -13,15 +13,15 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td>  Macroeconomía , Economía del trabajo. </td>
+<td> <font size="2" color="black"> Macroeconomía , Economía del trabajo. </font></td>
 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> Ph. D., Economics, Yale University, United States, 2010.
-M. Phil., Economics, Yale University, United States, 2008.
+<td> <font size="2" color="black"> Ph. D., Economics, Yale University, United States, 2010.
+M. Phil., Economics, Yale University, United States, 2008. </font>
 </td>
 
 </tr>
@@ -29,7 +29,7 @@ M. Phil., Economics, Yale University, United States, 2008.
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> juan.eberhard@uai.cl </td>
+<td> <font size="2" color="black"> juan.eberhard@uai.cl </font> </td>
 
 </tr>
 

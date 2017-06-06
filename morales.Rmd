@@ -5,7 +5,7 @@ output: html_document
 <html>
 <body>
 
-<a href="xxx"><img src="FelipeMorales.JPG"align= top * left * bottom>
+<a href="xxx"><img src="FelipeMorales.JPG" width="300" height="350" align= top * left * bottom>
 
 <table border="2">
 
@@ -13,7 +13,7 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td>  Organización Industrial & Matrices Insumo Producto </td>
+<td>  <font size="2" color="black">Organización Industrial & Matrices Insumo Producto </font> </td>
 
 <tr>
 
@@ -21,9 +21,9 @@ output: html_document
 </font>
  </td>
 
-<td> 
+<td> <font size="2" color="black">
  Magíster en Economía, Universidad Adolfo Ibáñez
-
+</font>
 </td>
 
 </tr>
@@ -43,7 +43,8 @@ output: html_document
 <td> 
 <font size="2" color="black"> Reseña: </font> </td>
 <td><font size="2" color="black"> 
-Felipe Morales actualmente se desempeña como ayudante de investigación en el Centro de Economía y Política Regional (CEPR), trabajando en tópicos relacionados a las matrices input-output, enmarcado en el proyecto de investigación CONICYT-BMBF 150061. Además, se desempeña como profesor instructor en la Universidad Adolfo Ibáñez. Ha sido ayudante de investigación en tópicos relacionados a regulación de mercados energéticos, además de trabajar realizando pronósticos con modelos macro-econométricos. Sus áreas de interés son la organización industrial empírica, la teoría macroeconómica y la economía de la educación. 
+Felipe Morales actualmente se desempeña como ayudante de investigación en el Centro de Economía y Política Regional (CEPR), trabajando en tópicos relacionados a las matrices input-output, enmarcado en el proyecto de investigación CONICYT-BMBF 150061. Además, se desempeña como profesor instructor en la Universidad Adolfo Ibáñez. Ha sido ayudante de investigación en tópicos relacionados a regulación de mercados energéticos, además de trabajar realizando pronósticos con modelos macro-econométricos. Sus áreas de interés son la organización industrial empírica, la teoría macroeconómica y la economía de la educación.
+</font>
  </td>
 </tr>
 </tr>

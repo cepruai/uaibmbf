@@ -7,7 +7,7 @@ output: html_document
 <html>
 <body>
 
-<a href="xxx"><img src="NicolasGarrido.JPG"align= top * left * bottom>
+<a href="xxx"><img src="NicolasGarrido.JPG" width="300" height="350" align= top * left * bottom>
 
 <table border="2">
 
@@ -15,16 +15,16 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td> Cambio Tecnológico e Institucional. Instrumentos para análisis de la Complejidad. Metodología de la Ciencia. </td>
+<td> <font size="2" color="black">Cambio Tecnológico e Institucional. Instrumentos para análisis de la Complejidad. Metodología de la Ciencia. </font> </td>
 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td>  Doctor en Economía, Universidad de Alcalá de Henares.
+<td> <font size="2" color="black"> Doctor en Economía, Universidad de Alcalá de Henares.
 
-PostDoctorado del Departamento de Economía y CEEL (Computable and Experimental Economic Laboratory) de la Universidad de Trento, Italia. 
+PostDoctorado del Departamento de Economía y CEEL (Computable and Experimental Economic Laboratory) de la Universidad de Trento, Italia. </font>
 </td>
 
 </tr>

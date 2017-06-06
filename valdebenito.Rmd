@@ -5,7 +5,7 @@ output: html_document
 <html>
 <body>
 
-<a href="xxx"><img src="Rocío-Valdebenito.JPG"align= top * left * bottom>
+<a href="xxx"><img src="Rocío-Valdebenito.JPG" width="300" height="350" align= top * left * bottom>
 
 <table border="2">
 
@@ -13,14 +13,14 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td>  Economía de la Educación, Microeconomía Aplicada. </td>
+<td> <font size="2" color="black"> Economía de la Educación, Microeconomía Aplicada. </font> </td>
 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> Ingeniero Comercial y Magister en Management Science, Universidad Adolfo Ibáñez 2014.
+<td> <font size="2" color="black"> Ingeniero Comercial y Magister en Management Science, Universidad Adolfo Ibáñez 2014. </font>
 </td>
 
 </tr>
