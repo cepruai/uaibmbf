@@ -23,6 +23,7 @@ Entendiendo la necesidad de mejor información a nivel espacial de los efectos d
 
 <html>
 <body>
+<img src="lineas.png" width="600" height="570" align= top * left * bottom>
 
 <p ALIGN="center"> <h4> Patrocinan </h4> </p>
 <img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
