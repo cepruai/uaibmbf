@@ -8,8 +8,7 @@ output: html_document
 
 
 
-
-#### Centro de Economía y Política Regional:
+#### <font face="Arial Black">  Centro de Economía y Política Regional: </font>
 
 - <a href="aroca.html"> Patricio Aroca </a>
 
@@ -30,12 +29,7 @@ output: html_document
     + Institución: Universidad Diego Portales
     + Contacto: nicolas.garrido@udp.cl
   
-- <a href="xxx"> Esteban López </a>
 
-    + Rol: Post doctorado
-    + Institución: Centro de Economía y Política Regional
-    + Contacto: esteban.lopez@uai.cl
-  
 - <a href="valdebenito.html"> Rocío Valdebenito </a>
 
     + Rol: Ayudante de Investigación
@@ -48,7 +42,7 @@ output: html_document
     + Institución: Centro de Economía y Política Regional
     + Contacto: f.morales@uai.cl
     
-#### Institute of Economics Structure Research:
+#### <font face="Arial Black">  Institute of Economics Structure Research: </font>
 
 - Anke Mönning
 
@@ -62,7 +56,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: wolter@gws-os.com
   
-- Annet Gro?mann
+- Annet Groẞmann
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)

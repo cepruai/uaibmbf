@@ -1,12 +1,12 @@
 
 ---
-title: "BMBF UAI-GWS"
+title: <font face="Arial Black">  BMBF UAI-GWS </font>
 ---
 
-### Development of Sustainable Mining Strategies in Chile with a Regionalized National Model
+### <font face="Arial Black">  Development of Sustainable Mining Strategies in Chile with a Regionalized National Model </font>
 
 
-#### Contexto y Relevancia del Proyecto 
+#### <font face="Arial Black">  Contexto y Relevancia del Proyecto </font>
 
 La industria del cobre históricamente ha tenido una gran relevancia en la economía chilena superando durante períodos prolongados el 50% de la participación de las exportaciones nacionales. Por su parte, en términos de valor agregado, donde el cobre tiene baja participación, existe un grado de volatilidad mucho más alto.  Mientras el año 2003 el cobre representaba un 8% del valor agregado de la economía nacional para el año 2007 este representaba más del 20% del valor agregado nacional.Esta alta volatilidad, según instituciones como el Banco Central, puede explicar de forma importante producto del cambio de precios internacionales.
 
@@ -23,19 +23,21 @@ Entendiendo la necesidad de mejor información a nivel espacial de los efectos d
 
 <html>
 <body>
-<img src="lineas.png" width="600" height="570" align= top * left * bottom>
+<DIV ALIGN=center> <h4> <font face="Arial Black">  Patrocinan </font> </h4> </DIV>
 
-<p ALIGN="center"> <h4> Patrocinan </h4> </p>
+<DIV ALIGN=center> 
 <img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
 <img src="educacion_ger.jpg" width="300" height="270" align= top * left * bottom>
 <img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
-
-
-<p ALIGN="center"> <h4> Desarrollan </h4> </p>
+ </DIV>
+ 
+<DIV ALIGN=center> <h4><font face="Arial Black">  Desarrollan </font></h4> </DIV>
+<DIV ALIGN=center> 
 <img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom>
 <img src="uai_logo.jpg" width="200" height="170" align= top * left * bottom>
 <img src="cepr_logo.jpg" width="200" height="170" align= top * left * bottom>
 <img src="gws_logo.svg" width="200" height="170" align= top * left * bottom>
+</DIV>
 </body>
 </html>
 

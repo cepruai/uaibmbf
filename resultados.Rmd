@@ -4,8 +4,7 @@ output: html_document
 
 
 
-## Resultados Preliminares
-
+### <font face="Arial Black">  Resultados Preliminares </font>
 
 <html>
 <body style=”text-align: justify;”>
@@ -15,6 +14,8 @@ output: html_document
 <p style=”text-align: justify;”> Uno de los principales aportes que espera entregar estre proyecto es el desarrollo de un nuevo instrumental, conocido como los modelo REIM (Regional Econometrics Input Output Models), que permite desarrollar evaluaciones de impacto de shocks en variables económicas tanto a nivel nacional como nivel regional. Esto permitirá mejorar los alcances de información de hacedores de políticas públicas limitados para el análisis espacial con los modelos de equilibrio general computable. </p>
 
 <p style=”text-align: justify;”>  </p>
+
+
 
 </body>
 </html>

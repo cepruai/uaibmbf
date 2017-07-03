@@ -1,16 +1,45 @@
 ---
-title: "Datos"
+title: ""
 output: html_document
 ---
+### <font face="Arial Black"> Datos</font>
 
-Descargue las bases de datos.
+Uno de los principales aportes del proyecto BMBF está basado en la entrega de datos para el análisis de políticas nacionales y regionales vinculadas al sector minero. El equipo de investigadores ha recopilado más de 300 variables macro/microeconómicas relacionadas a las cuentas nacionales, variables de actividad económica, variables demográficas, variables laborales, matrices insumo-producto, entre otras.
+
+En los siguientes links se encuentran las siguientes bases de datos disponibles para descarga:
 
 <html>
 <body>
 
-<a href="C:/Users/Felipe/Dropbox/0000000DataCu/Biblio/Zrpi0402.pdf">Cuentas </a> 
+<font face="Arial Black"> Bases de datos laborales: </font> 
+
+- 
+
+<font face="Arial Black"> Bases de datos demográficas: </font> 
+
+- <a href="C:/Users/Felipe/Desktop/Descargas/formatos/lt_vgrkont_populationTS">Cuentas </a> 
+
+<font face="Arial Black"> Bases de datos relacionadas a cuentas nacionales:  </font>
+
+-
+
+<font face="Arial Black"> Matrices Insumo Producto: </font>
+
+-
+
+<font face="Arial Black"> Variables Regionales </font>
+
+- 
+- 
+- 
+-  
 
 
-- <a href="index.html"> Volver al Índice </a>
+<font face="Arial Black"> Resúmenes estadísticos: </font>
+
+-
+
+ <a href="index.html"> Volver al Índice </a>
+
 </body>
 </html>
