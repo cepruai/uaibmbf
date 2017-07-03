@@ -17,7 +17,7 @@ output: html_document
 
 <tr>
 
-<td> <font size="2" color="black"> Educación:</font>
+<td> <font size="2" color="black"> Educación: </font>
  </td>
 
 <td> <font size="2" color="black"> Ingeniero Comercial y Magister en Management Science, Universidad Adolfo Ibáñez 2014. </font>
