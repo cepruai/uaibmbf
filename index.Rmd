@@ -1,6 +1,6 @@
 
 ---
-title: <font face="Arial Black">  BMBF UAI-GWS </font>
+title: <font face="Arial Black">  COFORCE UAI-GWS </font>
 ---
 
 ### <font face="Arial Black">  Development of Sustainable Mining Strategies in Chile with a Regionalized National Model </font>
@@ -33,10 +33,10 @@ Entendiendo la necesidad de mejor información a nivel espacial de los efectos d
  
 <DIV ALIGN=center> <h4><font face="Arial Black">  Desarrollan </font></h4> </DIV>
 <DIV ALIGN=center> 
-<img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom>
-<img src="uai_logo.jpg" width="200" height="170" align= top * left * bottom>
-<img src="cepr_logo.jpg" width="200" height="170" align= top * left * bottom>
-<img src="gws_logo.svg" width="200" height="170" align= top * left * bottom>
+<a href="http://www.udp.cl"><img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom></a>
+<a href="http://www.uai.cl/"><img src="uai_logo.jpg" width="200" height="170" align= top * left * bottom></a>
+<a href="http://cepr.uai.cl/"><img src="cepr_logo.jpg" width="200" height="170" align= top * left * bottom></a>
+<a href="http://www.gws-os.com/de/index.php/home.html"><img src="gws_logo.svg" width="200" height="170" align= top * left * bottom></a>
 </DIV>
 </body>
 </html>

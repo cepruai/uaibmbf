@@ -15,6 +15,7 @@ output: html_document
 
 <p style=”text-align: justify;”>  </p>
 
+<font face="Arial Black">  Los resultados se publicarán próximamente... </font>
 
 
 </body>

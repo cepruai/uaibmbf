@@ -5,10 +5,10 @@ output: html_document
 
 </br>
 
-### <font face="Arial Black"> Sobre el Proyecto BMBF </font>
+### <font face="Arial Black"> Sobre el Proyecto COFORCE </font>
 
 
-BMBF corresponde a un proyecto de investigación colaborativa, financiado por CONICYT, que tiene como eje principal de interés la generación de información relevante para la implementación de políticas públicas relacionadas al sector minero. Este proyecto se encuentra patrocinado actualmente por la Universidad Adolfo Ibáñez y la Institution of Economics Structures Research, además de tener investigadores asociados a la Universidad Diego Portales.
+COFORCE corresponde a un proyecto de investigación colaborativa, financiado por CONICYT, que tiene como eje principal de interés la generación de información relevante para la implementación de políticas públicas relacionadas al sector minero. Este proyecto se encuentra patrocinado actualmente por la Universidad Adolfo Ibáñez y la Institution of Economics Structures Research, además de tener investigadores asociados a la Universidad Diego Portales.
 
 
 Los principales objetivos del proyecto son:
