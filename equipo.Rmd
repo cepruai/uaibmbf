@@ -62,7 +62,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: grossman@gws-os.com
 
-- Loreto Bieritz
+- <a href="loreto.html">Loreto Bieritz </a>
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
