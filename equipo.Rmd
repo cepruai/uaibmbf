@@ -44,13 +44,13 @@ output: html_document
     
 #### <font face="Arial Black">  Institute of Economics Structure Research: </font>
 
-- Anke Mönning
+- <a href="anke.html"> Anke Mönning </a>
 
     + Rol: Investigadora Responsable en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: moenning@gws-os.com
   
-- Marc Ingo Wolter
+- <a href="marc.html">Marc Ingo Wolter </a>
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
