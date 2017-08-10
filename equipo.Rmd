@@ -56,7 +56,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: wolter@gws-os.com
   
-- Annet Groẞmann
+- Anett Groẞmann
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
@@ -68,7 +68,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto:  bieritz@gws-os.com
 
-- Frank Hohmann
+- <a href="hohmann.html">Frank Hohmann </a>
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
