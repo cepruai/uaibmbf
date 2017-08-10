@@ -68,5 +68,11 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto:  bieritz@gws-os.com
 
+- Frank Hohmann
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institute of Economics Structures Research)
+    + Contacto:  hohmann@gws-os.com
+
 
 - <a href="index.html"> Volver al Índice </a>
