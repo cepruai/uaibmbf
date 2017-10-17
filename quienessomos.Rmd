@@ -29,7 +29,7 @@ Una de las características de este modelo es que tiene diferentes grados de agr
 
 
 <DIV ALIGN=center> 
-<img src="input_output_model.png" width="700" height="570" align= top * left * bottom>
+<img src="input_output_model.png" width="570" height="470" align= top * left * bottom>
 </DIV>
 
 
