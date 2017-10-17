@@ -13,15 +13,14 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td> <font size="2" color="black"> Macroeconomía , Economía del trabajo. </font></td>
+<td> <font size="2" color="black"> Desarrollo de software </font></td>
 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> <font size="2" color="black"> Ph. D., Economics, Yale University, United States, 2010.
-M. Phil., Economics, Yale University, United States, 2008. </font>
+<td> <font size="2" color="black"> Business administration with a focus on business informatics at the University of Osnabrück, Germany (Diploma in 1994) </font>
 </td>
 
 </tr>
@@ -29,7 +28,7 @@ M. Phil., Economics, Yale University, United States, 2008. </font>
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> <font size="2" color="black"> juan.eberhard@uai.cl </font> </td>
+<td> <font size="2" color="black"> hohmann at gws-os.com </font> </td>
 
 </tr>
 
@@ -41,7 +40,8 @@ M. Phil., Economics, Yale University, United States, 2008. </font>
 <td> 
 <font size="2" color="black"> Reseña: </font> </td>
 <td><font size="2" color="black"> 
-Profesor Asistente e Investigador de la Escuela de Negocios. Fue profesor asistente en Marshall School of Business, University of Southern California, Estados Unidos. Sus áreas de investigación son Macroeconomía y Economía del trabajo. Su trabajo se centra en modelos con agentes heterogéneos y sus aplicaciones a la acumulación de capital humano. </font>
+Ha sido responsable del desarrollo de softwares para el modelamiento de modelos macroeconómicos, gráfico de interfaces, data management y plataformas de comunicación. Además, ha trabajado como como consultor para una serie de organizaciones en Europa, Asia y Africa para el desarrollo de modelos macroeconómicos nacionales. 
+ </font>
 </td>
 </tr>
 </tr>
