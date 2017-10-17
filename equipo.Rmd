@@ -39,7 +39,7 @@ output: html_document
 - <a href="morales.html"> Felipe Morales </a>
 
     + Rol: Ayudante de Investigación
-    + Institución: Centro de Economía y Política Regional
+    + Institución: Centro de Economía y Política Regional.
     + Contacto: f.morales at uai.cl
     
 #### <font face="Arial Black">  Institute of Economics Structure Research: </font>
@@ -56,7 +56,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: wolter at gws-os.com
   
-- Anett Groẞmann
+- <a href="anett.html"> Anett Groẞmann </a>
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
