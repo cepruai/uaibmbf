@@ -13,15 +13,14 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td> <font size="2" color="black"> Macroeconomía , Economía del trabajo. </font></td>
+<td> <font size="2" color="black"> Structural change, Labour Market, International Trade, Input-output modelling</font></td>
 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> <font size="2" color="black"> Ph. D., Economics, Yale University, United States, 2010.
-M. Phil., Economics, Yale University, United States, 2008. </font>
+<td> <font size="2" color="black"> Ph. Diploma in Economics, Free University of Berlin, Germany, 2004. Master of Arts in International Economics, Berlin School of Economics and Law, Berlin, Germany, 2006. </font>
 </td>
 
 </tr>
@@ -29,7 +28,7 @@ M. Phil., Economics, Yale University, United States, 2008. </font>
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> <font size="2" color="black"> juan.eberhard@uai.cl </font> </td>
+<td> <font size="2" color="black"> moennig at gws-os.com</font> </td>
 
 </tr>
 
@@ -41,7 +40,7 @@ M. Phil., Economics, Yale University, United States, 2008. </font>
 <td> 
 <font size="2" color="black"> Reseña: </font> </td>
 <td><font size="2" color="black"> 
-Profesor Asistente e Investigador de la Escuela de Negocios. Fue profesor asistente en Marshall School of Business, University of Southern California, Estados Unidos. Sus áreas de investigación son Macroeconomía y Economía del trabajo. Su trabajo se centra en modelos con agentes heterogéneos y sus aplicaciones a la acumulación de capital humano. </font>
+Anke Mönning ha trabajado como cabeza en la división "Economic and Social Affairs" del centro GWS desde Julio del 2006.Su focus de investigación está concentrado en el análisis industrial, el mercadlo laboral y los cambios estructurales con enfasis en el comercio exterior. Es responsable del desarrollo del modelo aleman INFORGE y del modelo de comercio internacional TINFORGE. Desde el año 2006, Anke Mönnig ha formado parte del equipo del proyecto que trabaja en la evaluación cuantitativa y cualitativa de las industrias en nombre de la "German Savings Bank Association and Publishing Company (DSGV/DSV). Desde los recientes años, ella ha sido activa miembra del QuBe project (www.qube-projekt.de), en que junto a otros colaboradores (BIBB, IAB) la modelación de la oferta y demanda del mercado laboral aleman ha sido promovida. También trabaja en proyectos internacionales (Tunisia, Egipto, Israel) con focus en el modelamiento de rutinas en base al análisis input-output.   </font>
 </td>
 </tr>
 </tr>
