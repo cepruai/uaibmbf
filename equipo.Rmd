@@ -50,7 +50,7 @@ output: html_document
     + Institución: GWS mbH (Institute of Economics Structures Research)
     + Contacto: moenning at gws-os.com
   
-- <a href="marc.html">Marc Ingo Wolter </a>
+- <a href="Marc.html">Marc Ingo Wolter </a>
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
