@@ -29,6 +29,12 @@ output: html_document
     + Institución: Universidad Diego Portales
     + Contacto: nicolas.garrido at udp.cl
   
+- <a href="Lopez.html"> Esteban López </a>
+
+    + Rol: Investigador Asociado
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: esteban.lopez at uai.cl
+
 
 - <a href="valdebenito.html"> Rocío Valdebenito </a>
 
