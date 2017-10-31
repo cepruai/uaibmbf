@@ -1,0 +1,64 @@
+---
+title: ""
+output: html_document
+---
+
+</br>
+
+### <font face="Arial Black"> Sobre el Proyecto COFORCE </font>
+
+Copper Forecasting Chile, COFORCE, is a collaborative research project whose central goal is the generation of relevant information for the implementation of public policies related to the mining sector in Chile. 
+
+This project is sponsored by the Universidad Adolfo Ibañez and the Institution of Economics Structures Research. Researchers from Universidad Diego Portales also participate in the project.
+
+The main goals of the project are:
+
+•	The developing of an input-output regional model
+•	The generation of useful tools for the discussion of regional policies
+
+For the developing of the model, a number of equations are estimated, using an approach to macroeconomic theory that encompass neoclassical and neokeynesian models. Among the assumptions introduced into the model, bounded rationality, sticky prices, imperfect markets stands up as important assumptions. 
+
+One of the main characteristics of the model is its capacity to aggregate both at regional and/or national level. In this way, estimating the effect of shocks in the copper market would be made at both level of aggregations. The regional model allows to measure the effects of how variables associated with the mining industry impact the regional development. 
+
+<DIV ALIGN=center> 
+<img src="model_approach.png" width="300" height="270" align= top * left * bottom>
+</DIV>
+
+
+<DIV ALIGN=center> 
+<img src="input_output_model.png" width="570" height="470" align= top * left * bottom>
+</DIV>
+
+
+<DIV ALIGN=center> 
+<img src="coforce_regional.png" width="600" height="370" align= top * left * bottom>
+</DIV>
+
+The main sources of information to estimate the equations of the COFORCE model are:
+
+•	Integrated National Accounts
+•	Input-output Matrices
+•	Demographic Data
+•	Time series of Input Prices
+•	Labor Market surveys
+
+The model used in this project is designed to model structural and geographical aspects of economic development in Chile as precisely as possible. This means high resolution at the sector level, modelling regional economic developments within Chile and highly detailed modelling of international trade, broken down by goods and trading partners.
+
+The core component of the model system is COFORCE, in which international trade interdependencies are specified using the global trade model TINFORGE. Regional information on Chile are integrated in the model FEDERADO which is consistently linked to COFORCE.
+
+COFORCE (copper forecasting Chile) is a forecasting and simulation model which can be used to analyze the effects of structural changes in the Chilean economy. It is a macroeconomic input-output model which is distinguished by its empirical specification and is constructed around the interrelationships between individual industrial sectors. 
+
+Because the quality of the data used is vital, it uses only official data sources from the Central Bank and the Chilean National Statistical Institute (INE), in particular national accounts and input-output tables, and other data from domestic and international public organizations.
+
+COFORCE’s strength is its ability to analyze complex socioeconomic and economic structures including their dependencies. The input-output relationship also allows the identification of direct and indirect effects and cause-effect relationships. This enables end-to-end modelling of interdependencies between individual industrial sectors, as well as an explanation of macroeconomic relationships which treats an economy as the sum of its individual parts.
+
+An important feature of the COFORCE model is the inclusion of detailed trade data through the integration of the global trade model TINFORGE. The specifications for export demand thus take into account not just the economic power of Chile’s trading partners and their proportion of trade, but also distinguish between tradable goods categories. TINFORGE is extended to world copper trade, copper production and copper consumption. The model incorporates data for a total of 154 countries and the rest of world and 33 goods categories. This detailed treatment of Chilean export demand enables in-depth analysis of the Chilean economy and especially the copper mining industry against the backdrop of globalization.
+
+The project COFORCE contemplates 3 years of duration, and during that time both the German and the Chilean team have divided the different tasks, such as collection of data, calibration of the model, and develop scenarios for analysis, to reach the main goals.
+
+During 2017, the research teams have collected the data required for the development of the national and regional model. The model is developed by the German team. The subsequent years, in a joint effort, the model will be used to analyze different scenarios and generate implications for national and regional public policy.
+
+<DIV ALIGN=center> 
+<img src="lineas.png" width="600" height="670" align= top * left * bottom>
+</DIV>
+

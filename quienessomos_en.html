@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">BMBF</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="equipo.html">
+    <span class="fa fa-info"></span>
+     
+    Equipo
+  </a>
+</li>
+<li>
+  <a href="quienessomos.html">
+    <span class="fa fa-info"></span>
+     
+    Proyecto BMBF
+  </a>
+</li>
+<li>
+  <a href="datos.html">
+    <span class="fa fa-info"></span>
+     
+    Datos
+  </a>
+</li>
+<li>
+  <a href="resultados.html">
+    <span class="fa fa-info"></span>
+     
+    Resultados Preliminares
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p></br></p>
+<div id="sobre-el-proyecto-coforce" class="section level3">
+<h3><font face="Arial Black"> Sobre el Proyecto COFORCE </font></h3>
+<p>Copper Forecasting Chile, COFORCE, is a collaborative research project whose central goal is the generation of relevant information for the implementation of public policies related to the mining sector in Chile.</p>
+<p>This project is sponsored by the Universidad Adolfo Ibañez and the Institution of Economics Structures Research. Researchers from Universidad Diego Portales also participate in the project.</p>
+<p>The main goals of the project are:</p>
+<p>• The developing of an input-output regional model • The generation of useful tools for the discussion of regional policies</p>
+<p>For the developing of the model, a number of equations are estimated, using an approach to macroeconomic theory that encompass neoclassical and neokeynesian models. Among the assumptions introduced into the model, bounded rationality, sticky prices, imperfect markets stands up as important assumptions.</p>
+<p>One of the main characteristics of the model is its capacity to aggregate both at regional and/or national level. In this way, estimating the effect of shocks in the copper market would be made at both level of aggregations. The regional model allows to measure the effects of how variables associated with the mining industry impact the regional development.</p>
+<div align="center">
+<p><img src="model_approach.png" width="300" height="270" align= top * left * bottom></p>
+</div>
+<div align="center">
+<p><img src="input_output_model.png" width="570" height="470" align= top * left * bottom></p>
+</div>
+<div align="center">
+<p><img src="coforce_regional.png" width="600" height="370" align= top * left * bottom></p>
+</div>
+<p>The main sources of information to estimate the equations of the COFORCE model are:</p>
+<p>• Integrated National Accounts • Input-output Matrices • Demographic Data • Time series of Input Prices • Labor Market surveys</p>
+<p>The model used in this project is designed to model structural and geographical aspects of economic development in Chile as precisely as possible. This means high resolution at the sector level, modelling regional economic developments within Chile and highly detailed modelling of international trade, broken down by goods and trading partners.</p>
+<p>The core component of the model system is COFORCE, in which international trade interdependencies are specified using the global trade model TINFORGE. Regional information on Chile are integrated in the model FEDERADO which is consistently linked to COFORCE.</p>
+<p>COFORCE (copper forecasting Chile) is a forecasting and simulation model which can be used to analyze the effects of structural changes in the Chilean economy. It is a macroeconomic input-output model which is distinguished by its empirical specification and is constructed around the interrelationships between individual industrial sectors.</p>
+<p>Because the quality of the data used is vital, it uses only official data sources from the Central Bank and the Chilean National Statistical Institute (INE), in particular national accounts and input-output tables, and other data from domestic and international public organizations.</p>
+<p>COFORCE’s strength is its ability to analyze complex socioeconomic and economic structures including their dependencies. The input-output relationship also allows the identification of direct and indirect effects and cause-effect relationships. This enables end-to-end modelling of interdependencies between individual industrial sectors, as well as an explanation of macroeconomic relationships which treats an economy as the sum of its individual parts.</p>
+<p>An important feature of the COFORCE model is the inclusion of detailed trade data through the integration of the global trade model TINFORGE. The specifications for export demand thus take into account not just the economic power of Chile’s trading partners and their proportion of trade, but also distinguish between tradable goods categories. TINFORGE is extended to world copper trade, copper production and copper consumption. The model incorporates data for a total of 154 countries and the rest of world and 33 goods categories. This detailed treatment of Chilean export demand enables in-depth analysis of the Chilean economy and especially the copper mining industry against the backdrop of globalization.</p>
+<p>The project COFORCE contemplates 3 years of duration, and during that time both the German and the Chilean team have divided the different tasks, such as collection of data, calibration of the model, and develop scenarios for analysis, to reach the main goals.</p>
+<p>During 2017, the research teams have collected the data required for the development of the national and regional model. The model is developed by the German team. The subsequent years, in a joint effort, the model will be used to analyze different scenarios and generate implications for national and regional public policy.</p>
+<div align="center">
+<p><img src="lineas.PNG" width="600" height="670" align= top * left * bottom></p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
