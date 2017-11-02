@@ -19,3 +19,9 @@ navbar:
     - text: "Resultados Preliminares"
       icon: fa-info
       href: resultados.html
+    - text: "Idioma"
+      icon: fa-language
+      href: resultados.html
+  subcategories:
+    - subtitle: "GitHub Pages"
+      subhref: "pages/"

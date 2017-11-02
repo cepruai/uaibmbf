@@ -2,6 +2,16 @@
 output: html_document
 ---
 
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+</style>
 
 
 ### <font face="Arial Black">  Resultados Preliminares </font>
