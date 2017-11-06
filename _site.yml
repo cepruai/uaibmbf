@@ -19,6 +19,9 @@ navbar:
     - text: "Resultados Preliminares"
       icon: fa-info
       href: resultados.html
+    - text: "Publicaciones"
+      icon: fa-info
+      href: publicacion.html      
     - text: "Idioma"
       icon: fa-language
       menu:
