@@ -21,7 +21,12 @@ navbar:
       href: resultados.html
     - text: "Idioma"
       icon: fa-language
-      href: resultados.html
-  subcategories:
-    - subtitle: "GitHub Pages"
-      subhref: "pages/"
+      menu:
+      - text: "Inglés"
+        href: ingles.html
+      - text: "Español"
+        href: español.html
+      - text: "Alemán"
+        href: aleman.html
+
+
