@@ -26,9 +26,9 @@ navbar:
       icon: fa-language
       menu:
       - text: "Inglés"
-        href: ingles.html
+        href: https://cepruai.github.io/uaibmbf_en/index.html
       - text: "Español"
-        href: español.html
+        href: https://cepruai.github.io/uaibmbf/index.html
       - text: "Alemán"
         href: aleman.html
 
