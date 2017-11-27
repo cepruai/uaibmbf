@@ -1,35 +1,38 @@
-name: "my-website"
-output_dir: "."
+name: my-website
+output_dir: .
 navbar:
-  title: 
+  title: ~
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "Equipo"
-      icon: fa-info
-      href: equipo.html
-    - text: "Proyecto BMBF"
-      icon: fa-info
-      href: quienessomos.html
-    - text: "Datos"
-      icon: fa-info
-      href: datos.html
-    - text: "Resultados Preliminares"
-      icon: fa-info
-      href: resultados.html
-    - text: "Publicaciones"
-      icon: fa-info
-      href: publicacion.html      
-    - text: "Idioma"
-      icon: fa-language
-      menu:
-      - text: "Inglés"
-        href: https://cepruai.github.io/uaibmbf_en/index.html
-      - text: "Español"
-        href: https://cepruai.github.io/uaibmbf/index.html
-      - text: "Alemán"
-        href: aleman.html
-
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Equipo
+    icon: fa-info
+    href: equipo.html
+  - text: Proyecto BMBF
+    icon: fa-info
+    href: quienessomos.html
+  - text: Datos
+    icon: fa-info
+    href: datos.html
+  - text: Resultados Preliminares
+    icon: fa-info
+    href: resultados.html
+  - text: Publicaciones
+    icon: fa-info
+    href: publicacion.html
+  - text: Idioma
+    icon: fa-language
+    menu:
+    - text: InglÃ©s
+      href: https://cepruai.github.io/uaibmbf_en/index.html
+    - text: EspaÃ±ol
+      href: https://cepruai.github.io/uaibmbf/index.html
+    - text: AlemÃ¡n
+      href: aleman.html
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
 
