@@ -25,11 +25,11 @@ navbar:
   - text: Idioma
     icon: fa-language
     menu:
-    - text: InglÃ©s
+    - text: Inglés
       href: https://cepruai.github.io/uaibmbf_en/index.html
-    - text: EspaÃ±ol
+    - text: Español
       href: https://cepruai.github.io/uaibmbf/index.html
-    - text: AlemÃ¡n
+    - text: Alemán
       href: aleman.html
 output:
   html_document:

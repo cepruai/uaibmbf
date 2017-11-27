@@ -47,7 +47,7 @@ Brandt, Bieritz, Mönning & Großmann
 </td>
 
 <td>
- <a href="C:\Users\Felipe\Desktop\uaibmbf\gws-paper17-2.pdf"> Descargar
+ <a href="gws-paper17-2.pdf"> Descargar
 
 </td>
 </tr>
