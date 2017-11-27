@@ -32,7 +32,6 @@ Por lo tanto, se han unido equipos de investigación de la Universidad Adolfo Ib
 
 <DIV ALIGN=center> 
 <img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
-<img src="educacion_ger.jpg" width="300" height="270" align= top * left * bottom>
 <img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
  </DIV>
  

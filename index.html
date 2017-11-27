@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -228,13 +230,13 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="https://cepruai.github.io/uaibmbf_en/index.html">Inglés</a>
+      <a href="https://cepruai.github.io/uaibmbf_en/index.html">InglÃ©s</a>
     </li>
     <li>
-      <a href="https://cepruai.github.io/uaibmbf/index.html">Español</a>
+      <a href="https://cepruai.github.io/uaibmbf/index.html">EspaÃ±ol</a>
     </li>
     <li>
-      <a href="aleman.html">Alemán</a>
+      <a href="aleman.html">AlemÃ¡n</a>
     </li>
   </ul>
 </li>
@@ -278,7 +280,7 @@ p    {color: black;}
 </h4>
 </div>
 <div align="center">
-<img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom> <img src="educacion_ger.jpg" width="300" height="270" align= top * left * bottom> <img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
+<img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom> <img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
 </div>
 <div align="center">
 <h4>
