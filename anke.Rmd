@@ -1,5 +1,5 @@
 ---
-title: "Anke Mönning"
+title: "Anke Möning"
 output: html_document
 ---
 <html>
@@ -28,7 +28,7 @@ output: html_document
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> <font size="2" color="black"> moennig at gws-os.com</font> </td>
+<td> <font size="2" color="black"> moenig at gws-os.com</font> </td>
 
 </tr>
 

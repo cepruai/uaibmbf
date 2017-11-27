@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -212,11 +214,31 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="resultados.html">
+  <a href="publicacion.html">
+    <span class="fa fa-info"></span>
+     
+    Publicaciones
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-language"></span>
      
     Idioma
+     
+    <span class="caret"></span>
   </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://cepruai.github.io/uaibmbf_en/index.html">InglÃ©s</a>
+    </li>
+    <li>
+      <a href="https://cepruai.github.io/uaibmbf/index.html">EspaÃ±ol</a>
+    </li>
+    <li>
+      <a href="aleman.html">AlemÃ¡n</a>
+    </li>
+  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -284,7 +306,7 @@ p    {color: black;}
 <div id="institute-of-economics-structure-research" class="section level4">
 <h4><font face="Arial Black"> Institute of Economics Structure Research: </font></h4>
 <ul>
-<li><p><a href="anke.html"> Anke Mönning </a></p>
+<li><p><a href="anke.html"> Anke Möning </a></p>
 <ul>
 <li>Rol: Investigadora Responsable en el Extranjero</li>
 <li>Institución: GWS mbH (Institute of Economics Structures Research)</li>
