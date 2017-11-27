@@ -1,6 +1,6 @@
 
 ---
-title: <font face="Arial Black">  Documentos de trabajo e investigación </font>
+title: <font face="Arial Black">  Working Papers and Research </font>
 ---
 
 ### <font face="Arial Black">    </font>
@@ -15,16 +15,9 @@ p    {color: black;}
  
 
 
-<html>
+<html lang="en">
 <body>
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -33,28 +26,28 @@ p    {color: black;}
 
 <tr>
 <td>
-<center><font size="2" color="black">  Investigador </font></center>
+<center><font size="2" color="black">  Researcher </font></center>
 </td>
 
 <td>
-<center><font size="2" color="black">  Artículo </font></center>
+<center><font size="2" color="black">  Article </font></center>
 </td>
 
 <td>
-<center><font size="2" color="black">  Descarga </font> </center>
+<center><font size="2" color="black">  Download </font> </center>
 </td>
 </tr>
 <tr>
 <td>
-AAAA
+Brandt, Bieritz, Mönning & Großmann
 </td>
 
 <td>
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Development of Sustainable Mining Strategies in Chile with a Regionalized National Model
 </td>
 
 <td>
- <a href="C:/Users/Felipe/Desktop/Descargas/formatos/lt_vgrkont_populationTS">Descargar
+ <a href="C:\Users\Felipe\Desktop\uaibmbf\gws-paper17-2.pdf"> Descargar
 
 </td>
 </tr>

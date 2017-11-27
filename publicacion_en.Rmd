@@ -18,10 +18,6 @@ p    {color: black;}
 <html lang="en">
 <body>
  
-<a href="" hreflang="fr">French</a>
-
-<a href="" lang="fr" hreflang="fr">Francais</a>
- 
 
 
 
@@ -43,15 +39,15 @@ p    {color: black;}
 </tr>
 <tr>
 <td>
-AAAA
+Brandt, Bieritz, Mönning & Großmann
 </td>
 
 <td>
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Development of Sustainable Mining Strategies in Chile with a Regionalized National Model
 </td>
 
 <td>
- <a href="C:/Users/Felipe/Desktop/Descargas/formatos/lt_vgrkont_populationTS">Download
+ <a href="C:\Users\Felipe\Desktop\uaibmbf\gws-paper17-2.pdf"> Descargar
 
 </td>
 </tr>
