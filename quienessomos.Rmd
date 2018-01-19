@@ -10,7 +10,7 @@ p    {color: black;}
 </style>
 
 ### <font face="Arial Black"> Sobre el Proyecto COFORCE </font>
-
+        
 
 Copper Forecasting Chile ,COFORCE, corresponde a un proyecto de investigación colaborativa que tiene como eje principal la generación de información relevante para la implementación de políticas públicas relacionadas al sector minero en Chile.
 
