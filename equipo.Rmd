@@ -53,9 +53,9 @@ p    {color: black;}
     + Institución: Centro de Economía y Política Regional.
     + Contacto: f.morales at uai.cl
     
-#### <font face="Arial Black">  Institute of Economics Structure Research: </font>
+#### <font face="Arial Black">  Institute of Economic Structure Research: </font>
 
-- <a href="anke.html"> Anke Mönning </a>
+- <a href="anke.html"> Anke Mönnig </a>
 
     + Rol: Investigadora Responsable en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
