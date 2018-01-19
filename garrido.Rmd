@@ -8,7 +8,7 @@ output: html_document
 <body>
 
 <img src="NicolasGarrido.jpg" width="299" height="350" align= top * left * bottom>
-
+         
 <table border="2">
 
 <tr>
