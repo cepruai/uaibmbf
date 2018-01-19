@@ -15,7 +15,7 @@ p    {color: black;}
 
 
 #### <font face="Arial Black">  Contexto y Relevancia del Proyecto </font>
-   
+     
 Para Chile, la industria del cobre históricamente ha sido de muchas importancia para la economía. Esta industria ha superado durante períodos prolongados el 50% de la participación de las exportaciones nacionales. Sin embargo, en términos de valor agregado, donde el cobre tiene baja participación, existe una mucha mayor volatilidad. Para el año 2003 el cobre representaba un 8% del valor agregado de la economía nacional, mientas que para el año 2007 este representaba más del 20% del valor agregado nacional. Según el Banco Central, esta alta volatilidad del valor agregado puede explicarse de forma importante por la fluctuación de los precios internacionales.
 
 Si bien la producción de cobre en Chile se distribuye en 5  de las 15 regiones de Chile, la producción se concentra primordialmente en la Región de Antofagasta y sus dos regiones vecinas.
