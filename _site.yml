@@ -24,7 +24,7 @@ navbar:
     href: publicacion.html
   - text: Idioma
     icon: fa-language
-    menu:
+    menu:  
     - text: English
       href: https://cepruai.github.io/uaibmbf_en/index.html
     - text: Spanish
