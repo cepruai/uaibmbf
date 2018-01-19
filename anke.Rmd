@@ -1,5 +1,5 @@
 ---
-title: "Anke Möning"
+title: "Anke Mönning"
 output: html_document
 ---
 <html>
@@ -20,7 +20,7 @@ output: html_document
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> <font size="2" color="black"> Ph. Diploma in Economics, Free University of Berlin, Germany, 2004. Master of Arts in International Economics, Berlin School of Economics and Law, Berlin, Germany, 2006. </font>
+<td> <font size="2" color="black">   Diploma in Economics, Free University of Berlin, Germany, 2004. Master of Arts in International Economics, Berlin School of Economics and Law, Berlin, Germany, 2006. </font>
 </td>
 
 </tr>
@@ -28,7 +28,7 @@ output: html_document
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> <font size="2" color="black"> moenig at gws-os.com</font> </td>
+<td> <font size="2" color="black"> moennig at gws-os.com</font> </td>
 
 </tr>
 
