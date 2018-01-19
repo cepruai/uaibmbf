@@ -71,7 +71,7 @@ p    {color: black;}
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economic Structures Research)
-    + Contacto: grossman at gws-os.com
+    + Contacto: grossman at gws-os.com     
 
 - <a href="loreto.html">Loreto Bieritz </a>
 
