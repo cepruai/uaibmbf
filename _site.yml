@@ -30,7 +30,7 @@ navbar:
     - text: Spanish
       href: https://cepruai.github.io/uaibmbf/index.html
     - text: German
-      href: aleman.html
+      href: https://cepruai.github.io/uaibmbf_ger/ 
 output:
   html_document:
     lib_dir: site_libs
