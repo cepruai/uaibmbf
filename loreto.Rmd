@@ -20,7 +20,7 @@ Ciclos Económicos,
 <td> <font size="2" color="black"> Educación:</font>
  </td>
 
-<td> <font size="2" color="black"> Ph. Degree in Regional Studies of Latin America from the University of Cologne, 2000 </font>
+<td> <font size="2" color="black"> Diploma. Degree in Regional Studies of Latin America from the University of Cologne, 2000 </font>
 </td>
 
 </tr>
