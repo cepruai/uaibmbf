@@ -10,7 +10,7 @@ navbar:
   - text: Equipo
     icon: fa-info
     href: equipo.html
-  - text: Proyecto BMBF
+  - text: COFORCE
     icon: fa-info
     href: quienessomos.html
   - text: Datos
