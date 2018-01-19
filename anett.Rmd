@@ -22,7 +22,7 @@ output: html_document
 
 <td> <font size="2" color="black"> Dr.rer.pol., University Osnabrück, 2017. </font>
 </td>
-
+  
 </tr>
 
 <tr>
