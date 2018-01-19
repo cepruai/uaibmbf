@@ -34,7 +34,7 @@ p    {color: black;}
     + Institución: Universidad Diego Portales
     + Contacto: nicolas.garrido at udp.cl
   
-- <a href="Lopez.html"> Esteban López </a>
+- <a href="lopez.html"> Esteban López </a>
 
     + Rol: Investigador Asociado
     + Institución: Universidad Adolfo Ibáñez
