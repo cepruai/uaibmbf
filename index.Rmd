@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ### <font face="Arial Black">  Development of Sustainable Mining Strategies in Chile with a Regionalized National Model </font>
-  
+     
 <style>
 body {background-color: powderblue;}
 h1   {color: grey;}
