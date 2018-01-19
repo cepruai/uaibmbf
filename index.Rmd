@@ -1,6 +1,8 @@
 
 ---
 title: <font face="Arial Black">  COFORCE UAI-GWS </font>
+output: html_document
+
 ---
 
 ### <font face="Arial Black">  Development of Sustainable Mining Strategies in Chile with a Regionalized National Model </font>
