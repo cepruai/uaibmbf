@@ -39,7 +39,7 @@ p    {color: black;}
 </tr>
 <tr>
 <td>
-Brandt, Bieritz, Mönning & Großmann
+Brandt, Bieritz, Mönnig & Großmann
 </td>
 
 <td>
