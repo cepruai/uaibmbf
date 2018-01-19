@@ -59,7 +59,7 @@ p    {color: black;}
 
     + Rol: Investigadora Responsable en el Extranjero
     + Institución: GWS mbH (Institute of Economics Structures Research)
-    + Contacto: moenning at gws-os.com
+    + Contacto: moennig at gws-os.com
   
 - <a href="Marc.html">Marc Ingo Wolter </a>
 
