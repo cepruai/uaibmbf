@@ -34,7 +34,7 @@ output: html_document
 <td> f.morales@uai.cl </td>
 
 </tr>
-
+  
 <tr> 
 <td > <font size="2" color="black"> Sitio Web </font> </td> 
 <td>  http://cepr.uai.cl/equipo/felipe-morales/ </td>
