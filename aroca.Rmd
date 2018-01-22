@@ -42,7 +42,8 @@ Postdoctoral Stage at REAL, University of Illinois, Urbana-Champaign. United Sta
 
 <tr> 
 <td > <font size="2" color="black"> Sitio Web </font> </td> 
-<td> https://sites.google.com/site/parocasitio1/ </td>
+<td> https://sites.google.com/site/parocasitio1/ 
+http://cepr.uai.cl/equipo/patricio-aroca-2/ </td>
 </tr>
 
 <tr>
