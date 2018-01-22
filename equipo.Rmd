@@ -53,7 +53,7 @@ p    {color: black;}
     + Institución: Centro de Economía y Política Regional.
     + Contacto: f.morales at uai.cl
     
-#### <font face="Arial Black">  Institute of Economic Structure Research: </font>
+#### <font face="Arial Black">  Institute of Economic Structures Research: </font>
 
 - <a href="anke.html"> Anke Mönnig </a>
 
