@@ -34,7 +34,7 @@ Ciclos Económicos,
 
 <tr> 
 <td > <font size="2" color="black"> Sitio Web </font> </td> 
-<td> </td>
+<td> http://www.gws-os.com/de/index.php/the-gws/team/details/member/12.html </td>
 
 <tr>
 <td> 
