@@ -37,7 +37,8 @@ BS Ingeniero Comercial, Universidad de Tarapacá (2007), Chile </font>
 
 <tr> 
 <td > <font size="2" color="black"> Sitio Web </font> </td> 
-<td> https://www.researchgate.net/profile/Esteban_Lopez5    </td>
+<td> https://www.researchgate.net/profile/Esteban_Lopez5  
+http://cepr.uai.cl/equipo/esteban-lopez/</td>
 
 <tr>
 <td> 
