@@ -37,7 +37,7 @@ output: html_document
 
 <tr> 
 <td > <font size="2" color="black"> Sitio Web </font> </td> 
-<td>  </td>
+<td>  http://cepr.uai.cl/equipo/felipe-morales/ </td>
 
 <tr>
 <td> 
