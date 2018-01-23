@@ -1,6 +1,6 @@
  ---
-title: "Esteban Lopez"
-output: html_document
+ title: "Esteban Lopez"
+ output: html_document
 ---
 <html>
 <body>
@@ -13,7 +13,7 @@ output: html_document
 <td> <font size="2" color="black"> Área de Investigación:</font>
  </td>
 
-<td> <font size="2" color="black"> Economía Urbana, Planificación Urbana, Economía de la Vivienda, Economía Espacial </font></td>
+<td> <font size="2" color="black"> Economía Urbana, Planificación Urbana, Economía de la Vivienda, Economía Espacial      </font></td>
    
 <tr>
 
