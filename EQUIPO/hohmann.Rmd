@@ -1,0 +1,57 @@
+---
+title: "Frank Hohmann"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="hohmann.png" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+                 
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td> <font size="2" color="black"> Desarrollo de software </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td> <font size="2" color="black"> Business administration with a focus on business informatics at the University of Osnabrück, Germany (Diploma in 1994) </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> <font size="2" color="black"> hohmann at gws-os.com </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> http://www.gws-os.com/de/index.php/the-gws/team/details/member/19.html </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Ha sido responsable del desarrollo de softwares para el modelamiento de modelos macroeconómicos, gráfico de interfaces, data management y plataformas de comunicación. Además, ha trabajado como como consultor para una serie de organizaciones en Europa, Asia y Africa para el desarrollo de modelos macroeconómicos nacionales. 
+ </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html>
