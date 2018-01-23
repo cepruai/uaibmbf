@@ -44,7 +44,7 @@ p    {color: black;}
 - <a href="valdebenito.html"> Rocío Valdebenito </a>
 
     + Rol: Ayudante de Investigación
-    + Institución: Centro de Economía y Política Regional
+    + Institución: Centro de Economía y Política Regional  
     + Contacto: rocio.valdebenito at uai.cl
 
 - <a href="morales.html"> Felipe Morales </a>
