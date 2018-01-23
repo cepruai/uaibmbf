@@ -27,7 +27,7 @@ Entre el año 2008 y el 2014 el precio del cobre experimento una caída signific
 Si bien los evaluadores de políticas públicas actualmente, a través de las matrices insumo-producto, pueden medir los efectos de variaciones de la industria minera sobre la economía nacional, no se poseen modelos que permitan el estudio de estos efectos a nivel regional. Dada la concentración de esta industria en ciertas regiones de Chile, este tipo de modelos puede ser relevante a la hora de implementar políticas que busquen el crecimiento y desarrollo regional.
 
 Por lo tanto, se han unido equipos de investigación de la Universidad Adolfo Ibáñez y la Gesellschaft für Wirtschaftliche Strukturforschung mbH, financiados por CONICYT y Bundesministerium für Bildung und Forschung, para elaborar modelos que permitan cuantificar impactos del sector minero a nivel regional y para poder generar mejor información a nivel espacial de los efectos del ciclo del precio del cobre y otros posibles shocks a la industria. Más aun, se generará metodología para realizar este tipo de análisis para cualquier sector.
-
+   
 <html>
 <body>
 <DIV ALIGN=center> <h4> <font face="Arial Black">  Patrocinan </font> </h4> </DIV>
