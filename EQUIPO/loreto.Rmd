@@ -10,7 +10,7 @@ output: html_document
 <table border="2">
    
 <tr>
-<td> <font size="2" color="black"> Área de Investigación:</font>
+<td> <font size="2" color="black"> Área de Investigación: </font>
  </td>
 Ciclos Económicos, 
 <td> <font size="2" color="black"> Business Cycle, Economic Activities, Regional Issues </font></td>
