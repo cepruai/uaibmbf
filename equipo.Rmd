@@ -15,7 +15,7 @@ p    {color: black;}
 
 #### <font face="Arial Black">  Centro de Economía y Política Regional: </font>
 
-- <a href="file:///C:/Users/Felipe/Desktop/uaibmbf/EQUIPO/aroca.html"> Patricio Aroca </a>
+- <a href="~/EQUIPO/aroca.html"> Patricio Aroca </a>
 
     + Rol: Investigador Responsable
     + Institución: Universidad Adolfo Ibáñez
