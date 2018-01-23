@@ -1,0 +1,89 @@
+---
+title: "Equipo de investigación"
+
+output: html_document
+---
+
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+</style>
+
+
+
+
+#### <font face="Arial Black">  Centro de Economía y Política Regional: </font>
+
+- <a href="aroca.html"> Patricio Aroca </a>
+
+    + Rol: Investigador Responsable
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: patricio.aroca at uai.cl
+
+
+- <a href="eberhard.html"> Juan Pedro Eberhard </a>
+
+    + Rol: Investigador Asociado
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: juan.eberhard at uai.cl
+
+- <a href="garrido.html"> Nicolás Garrido </a>
+
+    + Rol: Investigador Asociado
+    + Institución: Universidad Diego Portales
+    + Contacto: nicolas.garrido at udp.cl
+  
+- <a href="lopez.html"> Esteban López </a>
+
+    + Rol: Post doctorate
+    + Institución: Universidad Adolfo Ibáñez
+    + Contacto: esteban.lopez at uai.cl
+
+
+- <a href="valdebenito.html"> Rocío Valdebenito </a>
+
+    + Rol: Ayudante de Investigación
+    + Institución: Centro de Economía y Política Regional
+    + Contacto: rocio.valdebenito at uai.cl
+
+- <a href="morales.html"> Felipe Morales </a>
+
+    + Rol: Ayudante de Investigación
+    + Institución: Centro de Economía y Política Regional.
+    + Contacto: f.morales at uai.cl
+    
+#### <font face="Arial Black">  Institute of Economic Structures Research: </font>
+
+- <a href="anke.html"> Anke Mönnig </a>
+
+    + Rol: Investigadora Responsable en el Extranjero
+    + Institución: GWS mbH (Institute of Economic Structures Research)
+    + Contacto: moennig at gws-os.com
+  
+- <a href="Marc.html">Marc Ingo Wolter </a>
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institute of Economic Structures Research)
+    + Contacto: wolter at gws-os.com
+  
+- <a href="anett.html"> Anett Groẞmann </a>
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institute of Economic Structures Research)
+    + Contacto: grossmann at gws-os.com     
+
+- <a href="loreto.html">Loreto Bieritz </a>
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institute of Economic Structures Research)
+    + Contacto:  bieritz at gws-os.com
+
+- <a href="hohmann.html">Frank Hohmann  </a>
+
+    + Rol: Investigador Asociado en el Extranjero
+    + Institución: GWS mbH (Institute of Economic Structures Research)
+    + Contacto:  hohmann at gws-os.com
+
+
+- <a href="index.html"> Volver al Índice </a>

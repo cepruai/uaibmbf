@@ -1,0 +1,64 @@
+ ---
+title: "Esteban Lopez"
+output: html_document
+---
+<html>
+<body>
+ 
+<img src="lopez.png" width="299" height="350" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td> <font size="2" color="black"> Economía Urbana, Planificación Urbana, Economía de la Vivienda, Economía Espacial </font></td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td> <font size="2" color="black"> PhD in Regional Planning y MS in Applied and Agricultural Economics (2016) University of Illinois at Urbana-Champaign.
+MS Ciencia Regional (2010) Universidad Católica del Norte, Chile 
+BS Ingeniero Comercial, Universidad de Tarapacá (2007), Chile </font>
+</font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> <font size="2" color="black"> esteban.lopez@uai.cl </font> </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> https://www.researchgate.net/profile/Esteban_Lopez5  
+http://cepr.uai.cl/equipo/esteban-lopez/</td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Esteban López es actualmente Postdoctor del Centro de Economía y Política Regional (CEPR) y Profesor Instructor del Departamento de Economía de la Universidad Adolfo Ibañez. Obtuvo en el 2016 su PhD en Planificación Urbana y Regional y un Master en Ciencias en Economía Aplicada y Agrícola, ambos de la University of Illinois at Urbana-Champaign en Estados Unidos. 
+
+Esteban se ha desempeñado como consultor del Lincoln Institute of Land Policy y del REAL-UIUC. Sus líneas de investigación se enfoca en términos generales en el estudio del comportamiento de variables económicas en el territorio (economía espacial/urbana). Específicamente, sus áreas de investigación abarcan los mercados de vivienda, los efectos de políticas nacionales a través de las regiones, patrones de migración, entre otros.-
+  </font>
+</td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html>
+

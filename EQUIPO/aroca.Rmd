@@ -1,0 +1,74 @@
+---
+title: "Patricio Aroca"
+
+output: html_document
+---
+
+<html>
+
+
+
+<body>
+
+
+<table border="2">
+<tr>
+<img src="Patricio-Aroca.jpg"  width="300" height="350" align= top * center * bottom>
+          
+</tr>
+<tr>
+<td> <font size="2" color="black"> Área de Investigación:</font>
+ </td>
+
+<td>  <font size="2" color="black"> Economía Regional, Conmutación y Migración Regional, Concentración de Capital Humano, Matrices Input-Output. </font> </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:</font>
+ </td>
+
+<td>   <font size="2" color="black"> Ph. D., Economics, University of Illinois, Urbana-Champaign. United States, 1995. 
+Postdoctoral Stage at REAL, University of Illinois, Urbana-Champaign. United States, 2002. </font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> patricio.aroca@uai.cl </td>
+
+</tr>
+
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td> https://sites.google.com/site/parocasitio1/ 
+http://cepr.uai.cl/equipo/patricio-aroca-2/ </td>
+</tr>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Profesor Titular de la Escuela de Negocios, Investigador Responsable del Núcleo de la Iniciativa Científica Milenio de MIDEPLAN "Ciencia Regional y Políticas Públicas" y Profesor investigador afiliado al Laboratorio de Economía Regional Aplicada (REAL) de la Universidad de Illinois, Estados Unidos. Recientemente ha publicado sobre análisis de insumo producto, econometría espacial, crecimiento regional y migración laboral interregional. Desde 1997 a 2000 fue Decano de la Facultad de Economía y Administración de la Universidad Católica del Norte y ha sido consultor del Banco Mundial, Banco Interamericano del Desarrollo (BID), Conferencia de Naciones Unidas para el Comercio y Desarrollo (UNCTAD) y el Centro Latinoamericano de Demografía de Naciones Unidas (CELADE-UN). Es miembro del Consejo de la Comisión Chilena del Cobre (COCHILCO), y pertenece al Directorio de RSAI (Regional Science Association International) y de PRSCO (Pacific Regional Science Council).- </font>
+</td>
+</tr>
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Otras afiliaciones </font> </td>
+<td> <font size="2" color="black"> Miembro del Consejo de la Comisión Chilena del Cobre (COCHILCO)
+Profesor de investigación en Regional Economic Application Laboratory (REAL), Universidad de Illinois, USA
+Presidente Electo: Pacific Regional Science Organisation (PRSCO) </font> </td>
+
+</tr>
+
+</table> 
+
+
+- <a href="equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html>
