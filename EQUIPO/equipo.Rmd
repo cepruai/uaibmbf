@@ -65,7 +65,7 @@ p    {color: black;}
 
     + Rol: Investigador Asociado en el Extranjero
     + Institución: GWS mbH (Institute of Economic Structures Research)
-    + Contacto: wolter at gws-os.com
+    + Contacto: wolter at gws-os.com   
   
 - <a href="anett.html"> Anett Groẞmann </a>
 

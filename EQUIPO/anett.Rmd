@@ -48,7 +48,7 @@ Sus áreas de interés son el desarrollo de modelos de pronósticos y la cuantif
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="/equipo/equipo.html"> Volver a Equipo </a>
 
 </body>
 
