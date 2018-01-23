@@ -43,7 +43,7 @@ PostDoctorado del Departamento de Economía y CEEL (Computable and Experimental 
 
 <tr>
 <td> 
-<font size="2" color="black"> Reseña: </font> </td>
+<font size="2" color="black"> Reseña:  </font> </td>
 <td><font size="2" color="black"> 
  </font>
 </td>
