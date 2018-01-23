@@ -48,7 +48,7 @@ Rocío Valdebenito es Ingeniero Comercial y Master en Management Science de la U
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 </body>
 
 
