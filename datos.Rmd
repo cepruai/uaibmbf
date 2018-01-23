@@ -1,10 +1,15 @@
 ---
-title: "Datos"
+title: ""
 
 output: html_document
 ---
 
- 
+<style>
+body {background-color: powderblue;}
+h1   {color: grey;}
+p    {color: black;}
+</style>
+
 <html>
 <body>
 
