@@ -42,7 +42,7 @@ Por lo tanto, se han unido equipos de investigación de la Universidad Adolfo Ib
 <a href="http://www.udp.cl"><img src="/index/udp_logo.jpg" width="130" height="170" align= top * left * bottom></a>
 <a href="http://www.uai.cl/"><img src="/index/uai_logo.jpg" width="200" height="170" align= top * left * bottom></a>
 <a href="http://cepr.uai.cl/"><img src="/index/cepr_logo.jpg" width="200" height="170" align= top * left * bottom></a>
-<a href="http://www.gws-os.com/de/index.php/home.html"><img src="/index/gws_logo.svg" width="200" height="170" align= top * left * bottom></a>
+<a href="http://www.gws-os.com/de/index.php/home.html"><img src="/index/gws_logo.svg" width="200" height="170" align= top * left * bottom></a> 
 </DIV>
 </body>
 </html>
