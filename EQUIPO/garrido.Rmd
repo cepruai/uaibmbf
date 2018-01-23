@@ -58,7 +58,7 @@ PostDoctorado del Departamento de Economía y CEEL (Computable and Experimental 
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
