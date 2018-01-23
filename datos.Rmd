@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Datos"
+
 output: html_document
 ---
-<style>
-body {background-color: powderblue;}
-h1   {color: grey;}
-p    {color: black;}
-</style>
+
+ 
+<html>
+<body>
 
 ### <font face="Arial Black"> Datos</font>
 
@@ -14,8 +14,6 @@ Uno de los principales aportes del proyecto BMBF está basado en la entrega de d
 
 En los siguientes links se encuentran las siguientes bases de datos disponibles para descarga:
 
-<html>
-<body>
 
 <font face="Arial Black"> Bases de datos laborales: </font> 
 
@@ -33,13 +31,13 @@ En los siguientes links se encuentran las siguientes bases de datos disponibles 
 
 - <a href="/datos/mip 1986.XLS"> MIP 1986 </a> 
 
-- <a href="mip 1996.xls"> MIP 1996 </a> 
+- <a href="/datos/mip 1996.xls"> MIP 1996 </a> 
 
-- <a href="mip 2003.xls"> MIP 2003 </a> 
+- <a href="/datos/mip 2003.xls"> MIP 2003 </a> 
 
-- <a href="mip 2008.xlsx"> MIP 2008 </a> 
+- <a href="/datos/mip 2008.xlsx"> MIP 2008 </a> 
 
-- <a href="mip 2013.xlsx"> MIP 2013 </a> 
+- <a href="/datos/mip 2013.xlsx"> MIP 2013 </a> 
 
 
 <font face="Arial Black"> Variables Regionales </font>
