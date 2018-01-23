@@ -14,7 +14,7 @@ output: html_document
  </td>      
 
 <td> <font size="2" color="black"> Macroeconomía , Economía del trabajo. </font></td>
-
+ 
 <tr>
 
 <td> <font size="2" color="black"> Educación:</font>
