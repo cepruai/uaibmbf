@@ -28,7 +28,7 @@ output: html_document
 <tr>
 <td> <font size="2" color="black"> Contacto:</font> </td>
 
-<td> rocio.valdebenito@uai.cl </td>
+<td> rocio.valdebenito@edu.uai.cl </td>
 
 </tr>
 
