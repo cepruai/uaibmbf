@@ -31,7 +31,7 @@ En los siguientes links se encuentran las siguientes bases de datos disponibles 
 
 <font face="Arial Black"> Matrices Insumo Producto: </font>
 
-- <a href="mip 1986.XLS"> MIP 1986 </a> 
+- <a href="/datos/mip 1986.XLS"> MIP 1986 </a> 
 
 - <a href="mip 1996.xls"> MIP 1996 </a> 
 
