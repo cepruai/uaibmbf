@@ -45,13 +45,13 @@ p    {color: black;}
 
     + Rol: Ayudante de Investigación
     + Institución: Centro de Economía y Política Regional
-    + Contacto: rocio.valdebenito at uai.cl
+    + Contacto: rocio.valdebenito at edu.uai.cl
 
 - <a href="morales.html"> Felipe Morales </a>
 
     + Rol: Ayudante de Investigación
     + Institución: Centro de Economía y Política Regional.
-    + Contacto: f.morales at uai.cl
+    + Contacto: f.morales at edu.uai.cl
     
 #### <font face="Arial Black">  Institute of Economic Structures Research: </font>
 
