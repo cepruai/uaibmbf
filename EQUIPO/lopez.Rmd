@@ -55,7 +55,7 @@ Esteban se ha desempeñado como consultor del Lincoln Institute of Land Policy y
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
