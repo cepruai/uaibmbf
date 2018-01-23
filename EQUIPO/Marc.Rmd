@@ -49,7 +49,7 @@ Marc Ingo Wolter es jefe de la división ‘Economic and Social Affairs’ del G
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
