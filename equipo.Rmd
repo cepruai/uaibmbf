@@ -55,7 +55,7 @@ p    {color: black;}
     
 #### <font face="Arial Black">  Institute of Economic Structures Research: </font>
 
-- <a href="C:/Users/Felipe/Desktop/uaibmbf/EQUIPO/anke.html"> Anke Mönnig </a>
+- <a href="/EQUIPO/anke.html"> Anke Mönnig </a>
 
     + Rol: Investigadora Responsable en el Extranjero
     + Institución: GWS mbH (Institute of Economic Structures Research)
