@@ -48,7 +48,7 @@ Investigadora del GWS en la división Economic and Social Affairs desde Noviembr
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
