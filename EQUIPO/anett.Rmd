@@ -40,7 +40,7 @@ output: html_document
 <td> 
 <font size="2" color="black"> Reseña: </font> </td>
 <td><font size="2" color="black"> 
-Sus áreas de interés son el desarrollo de modelos de pronósticos y la cuantificación de efectos de políticas macroeconómicas. Recientemente ha estado involucrada en el análisis de impacto económico y mediciones de política mediocambiental y su representación en los denominados E3 models (economy, energy, enviromental). </font>
+Sus áreas de interés son el desarrollo de modelos de pronósticos y la cuantificación de efectos de políticas macroeconómicas. Recientemente ha estado involucrada en el análisis de impacto económico y mediciones de política mediocambiental y su representación en los denominados E3 models (economy, energy, enviromental).   </font>
 </td>
 </tr>
 </tr>
