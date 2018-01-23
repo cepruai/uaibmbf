@@ -48,7 +48,7 @@ Anke Mönnig ha trabajado como cabeza en la división "Economic and Social Affai
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
