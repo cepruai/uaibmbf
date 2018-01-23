@@ -28,17 +28,17 @@ Para el desarrollo el modelo, se estimarán un conjunto de ecuaciones bajo una a
 Una de las características de este modelo es que tiene diferentes grados de agregación, uno a nivel nacional y otro a nivel regional. De esta forma, para estimar el efecto de shocks en el mercado del cobre, se desarrollará un modelo a nivel nacional y un modelo regional, donde el último permite medir los efectos de variables relacionadas a la minería sobre el desarrollo de las regiones.
 
 <DIV ALIGN=center> 
-<img src="model_approach.png" width="300" height="270" align= top * left * bottom>
+<img src="/quienessomos/model_approach.png" width="300" height="270" align= top * left * bottom>
 </DIV>
 
 
 <DIV ALIGN=center> 
-<img src="input_output_model.png" width="570" height="470" align= top * left * bottom>
+<img src="/quienessomos/input_output_model.png" width="570" height="470" align= top * left * bottom>
 </DIV>
 
 
 <DIV ALIGN=center> 
-<img src="coforce_regional.png" width="600" height="370" align= top * left * bottom>
+<img src="/quienessomos/coforce_regional.png" width="600" height="370" align= top * left * bottom>
 </DIV>
 
 
@@ -68,7 +68,7 @@ El proyecto COFORCE  contempla 3 años de duración, en los que tanto el equipo 
 Durante el año 2017 los equipos de investigación han desarrollado las bases de datos a utilizar y el equipo alemán está el modelo. Los años posteriores, en un trabajo en conjunto, el modelo  se usará para analizar diferentes simulaciones y generar implicancias de política nacional y regional.
 
 <DIV ALIGN=center> 
-<img src="lineas.png" width="600" height="670" align= top * left * bottom>
+<img src="/quienessomos/lineas.png" width="600" height="670" align= top * left * bottom>
 </DIV>
 
 
