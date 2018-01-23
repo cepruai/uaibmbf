@@ -47,7 +47,7 @@ Brandt, Bieritz, Mönnig & Großmann
 </td>
 
 <td>
- <a href="gws-paper17-2.pdf"> Descargar
+ <a href="/publicaciones/gws-paper17-2.pdf"> Descargar
 
 </td>
 </tr>
