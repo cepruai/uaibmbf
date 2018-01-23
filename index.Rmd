@@ -33,8 +33,8 @@ Por lo tanto, se han unido equipos de investigación de la Universidad Adolfo Ib
 <DIV ALIGN=center> <h4> <font face="Arial Black">  Patrocinan </font> </h4> </DIV>
 
 <DIV ALIGN=center> 
-<img src="logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
-<img src="bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
+<img src="/index/logo_fondecyt.png" width="180" height="170" align= top * left * bottom>
+<img src="/index/bmbf_logo.jpg" align= top width="200" height="170" * left * bottom>
  </DIV>
  
 <DIV ALIGN=center> <h4><font face="Arial Black">  Desarrollan </font></h4> </DIV>
