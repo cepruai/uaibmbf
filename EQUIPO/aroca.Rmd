@@ -17,7 +17,7 @@ output: html_document
           
 </tr>
 <tr>
-<td> <font size="2" color="black"> Área de Investigación:</font>
+<td> <font size="2" color="black"> Área de Investigación: </font>
  </td>
 
 <td>  <font size="2" color="black"> Economía Regional, Conmutación y Migración Regional, Concentración de Capital Humano, Matrices Input-Output. </font> </td>
