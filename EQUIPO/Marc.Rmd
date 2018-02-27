@@ -56,7 +56,8 @@ li a:hover {
   <li><a href="http://www.coforce.cl/datos.html">Datos</a></li>
   <li><a href="http://www.coforce.cl/resultados.html">Resultados Preliminares</a></li>
   <li><a href="http://www.coforce.cl/publicacion.html">Publicaciones</a></li>
-  <li><a href="#about">Idiomas</a></li>
+  <li><a href="http://en.coforce.cl/index.html">Inglés</a></li>
+  <li><a href="http://ger.coforce.cl/index.html">Alemán</a></li>
   
 
 </ul>
