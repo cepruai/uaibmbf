@@ -1,8 +1,4 @@
----
-title: "Patricio Aroca"
 
-output: html_document
----
 
 <html>
 
@@ -24,10 +20,51 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 </style>
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+
 </head>
 
 <body>
 
+<ul>
+  <li><a href="http://www.coforce.cl/index.html">Home</a></li>
+  <li><a href="http://www.coforce.cl/equipo.html">Equipo</a></li>
+  <li><a href="http://www.coforce.cl/quienessomos.html">COFORCE</a></li>
+  <li><a href="http://www.coforce.cl/datos.html">Datos</a></li>
+  <li><a href="http://www.coforce.cl/resultados.html">Resultados Preliminares</a></li>
+  <li><a href="http://www.coforce.cl/publicacion.html">Publicaciones</a></li>
+  <li><a href="http://en.coforce.cl/index.html">Inglés</a></li>
+  <li><a href="http://ger.coforce.cl/index.html">Alemán</a></li>
+  
+
+</ul>
+
+<h1> Patricio Aroca </h1>
 
 <table border="2">
 <tr>
