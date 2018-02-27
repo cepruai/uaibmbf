@@ -3,6 +3,27 @@ title: "Felipe Morales"
 output: html_document
 ---
 <html>
+
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+
 <body>
        
 <img src="FelipeMorales.jpg" width="298" height="349" align= top * left * bottom>
