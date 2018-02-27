@@ -10,7 +10,7 @@ output: html_document
 <table border="2">
 
 <tr>
-<td> <font size="2" color="black"> Área de investigación:</font>
+<td> <font size="2" color="black">Área de investigación:</font>
  </td>
 
 <td>  <font size="2" color="black">Organización Industrial & Matrices Insumo Producto </font> </td>
