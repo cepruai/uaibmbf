@@ -51,6 +51,7 @@ li a:hover {
 <body>
 <ul>
   <li><a href="http://www.coforce.cl/index.html">Home</a></li>
+  <li><a href="http://www.coforce.cl/noticias.html">Noticias</a></li>
   <li><a href="http://www.coforce.cl/equipo.html">Equipo</a></li>
   <li><a href="http://www.coforce.cl/quienessomos.html">COFORCE</a></li>
   <li><a href="http://www.coforce.cl/datos.html">Datos</a></li>
