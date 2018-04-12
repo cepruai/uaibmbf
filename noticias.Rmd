@@ -14,7 +14,7 @@ p    {color: black;}
 </style>
 
            
-### <font face="Arial Black">  Noticias </font>
+### <font face="Arial Black">  Noticias  </font>
 
 <html>
 <body style=”text-align: justify;”>
