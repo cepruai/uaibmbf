@@ -52,6 +52,12 @@ p    {color: black;}
     + Rol: Ayudante de Investigación
     + Institución: Centro de Economía y Política Regional.
     + Contacto: f.morales at edu.uai.cl
+
+- <a href="/EQUIPO/fernandez.html"> Javier Fernández </a>
+
+    + Rol: Ayudante de Investigación
+    + Institución: Centro de Economía y Política Regional.
+    + Contacto: javier.fernandezch at edu.uai.cl
     
 #### <font face="Arial Black">  Institute of Economic Structures Research: </font>
 
