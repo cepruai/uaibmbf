@@ -42,7 +42,6 @@ Una de las características de este modelo es que tiene diferentes grados de agr
 </DIV>
 
 
-
 Las principales fuentes de información para realizar la estimación de las ecuaciones del modelo COFORCE serán:
 
 •	Cuentas Nacionales Integradas
