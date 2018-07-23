@@ -21,7 +21,11 @@ p    {color: black;}
 
 #### <font face="Arial Black">  La minería de cobre en Chile - ¿el motor de la economía chilena? </font>
 
-# Investigadores del proyecto COFORCE presentan resultados de investigación en la 26th International Input-Output Conference
+# Investigadores del proyecto COFORCE presentan resultados de investigación en la 26th International Input-Output Conference (Junio 25-29, Brasil, Juiz de Fora)
+ 
+En la conferencia "26th International Input-Output Conference" realizada en Brasil entre el 25 y 29 de Junio, Patricio Aroca, Anke Mönnig, Nicolás Garrido y Esteban López han presentado parte de los resultados de la investigación del proyecto COFORCE. En esta conferencia se discutió sobre los principales resultados del modelo a escala nacional y se plantean los desafíos para la regionalización del modelo. 
+
+La presentación de la conferencia está disponible aquí:
 
 
 <div id="cp_widget_315d27f2-62f5-4b97-913c-8ad464253941">...</div><script type="text/javascript">
