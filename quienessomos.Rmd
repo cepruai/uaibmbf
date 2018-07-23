@@ -68,7 +68,7 @@ El proyecto COFORCE  contempla 3 años de duración, en los que tanto el equipo 
 Durante el año 2017 los equipos de investigación han desarrollado las bases de datos a utilizar y el equipo alemán está el modelo. Los años posteriores, en un trabajo en conjunto, el modelo  se usará para analizar diferentes simulaciones y generar implicancias de política nacional y regional.   
 
 <DIV ALIGN=center> 
-<img src="/quienessomos/linea.png" width="600" height="270" align= top * left * bottom>
+<img src="/quienessomos/linea.png" width="100" height="270" align= top * left * bottom>
 </DIV>
 
 
