@@ -1,0 +1,119 @@
+ 
+<html>
+
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+
+</head>
+
+<body>
+<ul>
+  <li><a href="http://www.coforce.cl/index.html">Home</a></li>
+  <li><a href="http://www.coforce.cl/noticias.html">Noticias</a></li>
+  <li><a href="http://www.coforce.cl/equipo.html">Equipo</a></li>
+  <li><a href="http://www.coforce.cl/quienessomos.html">COFORCE</a></li>
+  <li><a href="http://www.coforce.cl/datos.html">Datos</a></li>
+  <li><a href="http://www.coforce.cl/resultados.html">Resultados Preliminares</a></li>
+  <li><a href="http://www.coforce.cl/publicacion.html">Publicaciones</a></li>
+  <li><a href="http://en.coforce.cl/index.html">Inglés</a></li>
+  <li><a href="http://ger.coforce.cl/index.html">Alemán</a></li>
+  
+
+</ul>
+
+<h1> Javier Fernández </h1>     
+
+<img src="fernandez.jpg" width="298" height="349" align= top * left * bottom>
+
+<table border="2">
+
+<tr>
+<td> <font size="2" color="black">Área de investigación:</font>
+ </td>
+
+<td>  <font size="2" color="black"> Economía de la Educación, Microeconomía Aplicada, Análisis de Eficiencia, Economía regional, Web Scraping.</font> </td>
+
+<tr>
+
+<td> <font size="2" color="black"> Educación:
+</font>
+ </td>
+
+<td> <font size="2" color="black">
+Tesista Magister en Economía, Universidad Adolfo Ibáñez.</font>
+</td>
+
+</tr>
+
+<tr>
+<td> <font size="2" color="black"> Contacto:</font> </td>
+
+<td> javier.fernandezch@edu.uai.cl </td>
+
+</tr>
+  
+<tr> 
+<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td>  http://cepr.uai.cl/equipo/javier-fernandez/ </td>
+
+<tr>
+<td> 
+<font size="2" color="black"> Reseña: </font> </td>
+<td><font size="2" color="black"> 
+Javier Fernández es estudiante de Ingeniería Comercial y tesista del Master en Economía de la Universidad Adolfo Ibáñez. Desde Diciembre del 2017 es investigador asociado del CEPR, donde trabaja temas de educación y eficiencia. Su tesis de magister estudia la relación entre la gestión municipal en educación y la eficiencia en calidad de esta. Sus temas de interés son desarrollo económico, microeconometría, economía regional, visualización de datos y web scraping. Desde agosto 2018, Javier es profesor part-time de la Escuela de Negocios.
+</font>
+ </td>
+</tr>
+</tr>
+
+
+</table> 
+
+- <a href="http://www.coforce.cl/equipo.html"> Volver a Equipo </a>
+
+</body>
+
+
+</html> 
