@@ -27,7 +27,7 @@ En la conferencia "26th International Input-Output Conference" realizada en Bras
 
 Revisa los resultados preliminares de la investigación del proyecto COFORCE:
 
-		<a href="http://www.coforce.cl/resultados.html"><img src="presentations.png"></a>
+<a href="http://www.coforce.cl/resultados.html"><img src="presentations.png"></a>
 
 
 <div id="cp_widget_315d27f2-62f5-4b97-913c-8ad464253941">...</div><script type="text/javascript">
