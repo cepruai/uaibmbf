@@ -28,7 +28,7 @@ p    {color: black;}
 Mira los resultados del proyecto COFORCE aquí:
  
 - General Model:
- Methodology and design of a macro-econometric input-output model for the Chilean economy
+
  <a href="http://www.coforce.cl/resultados_preliminares/paper_anke.html">  Methodology and design of a macro-econometric input-output model for the Chilean economy</a>
 
 - Tax Scenarios:
