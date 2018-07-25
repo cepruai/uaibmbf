@@ -41,7 +41,7 @@ Mira los resultados del proyecto COFORCE aquí:
 
 - Energy Scenario:
 
- <a href="http://www.coforce.cl/resultados_preliminares/paper_garrido.html">  economic asssessment of the changes in the energy sources on the chilean mining sector</a>
+ <a href="http://www.coforce.cl/resultados_preliminares/paper_garrido.html">  Economic asssessment of the changes in the energy sources on the chilean mining sector</a>
 
 </body>
 </html>
