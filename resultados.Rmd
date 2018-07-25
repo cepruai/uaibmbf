@@ -34,11 +34,13 @@ Mira los resultados del proyecto COFORCE aquí:
 - Tax Scenarios:
 
 -Labor Data:
+
  <a href="http://www.coforce.cl/resultados_preliminares/paper_lopez.html">  Data accuracy and economic modelling</a>
 
 
 
 - Energy Scenario:
+
  <a href="http://www.coforce.cl/resultados_preliminares/paper_garrido.html">  economic asssessment of the changes in the energy sources on the chilean mining sector</a>
 
 </body>
