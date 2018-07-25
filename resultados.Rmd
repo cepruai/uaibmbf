@@ -25,8 +25,21 @@ p    {color: black;}
 
 <p style=”text-align: justify;”>  </p>
 
-<font face="Arial Black">  Los resultados se publicarán próximamente... </font>
+Mira los resultados del proyecto COFORCE aquí:
+ 
+- General Model:
+ Methodology and design of a macro-econometric input-output model for the Chilean economy
+ <a href="http://www.coforce.cl/resultados_preliminares/paper_anke.html">  Methodology and design of a macro-econometric input-output model for the Chilean economy</a>
 
+- Tax Scenarios:
+
+-Labor Data:
+ <a href="http://www.coforce.cl/resultados_preliminares/paper_lopez.html">  Data accuracy and economic modelling</a>
+
+
+
+- Energy Scenario:
+ <a href="http://www.coforce.cl/resultados_preliminares/paper_garrido.html">  economic asssessment of the changes in the energy sources on the chilean mining sector</a>
 
 </body>
 </html>
