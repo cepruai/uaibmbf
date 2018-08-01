@@ -41,7 +41,7 @@ Data accuracy and economic modelling
 
 - <strong> Energy Scenario: </strong>
 
-<a href="http://en.coforce.cl/resultados_preliminares/paper_garrido.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
+<a href="http://en.coforce.cl/resultados_preliminares/paper_garrido.html"><img src="paper_garrido.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Economic asssessment of the changes in the energy sources on the chilean mining sector
 
 </body>
