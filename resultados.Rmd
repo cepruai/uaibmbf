@@ -29,19 +29,19 @@ Mira los resultados del proyecto COFORCE aquí:
  
 - <strong> General Model: </strong>
 
-<a href="http://en.coforce.cl/resultados_preliminares/paper_anke.html"><img src="paper_anke.png" width="300" height="300" title="White flower" alt="Flower"></a>
+<a href="http://coforce.cl/resultados_preliminares/paper_anke.html"><img src="paper_anke.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Methodology and design of a macro-econometric input-output model for the Chilean economy
 
 - <strong> Tax Scenarios:  </strong>
 
 - <strong> Labor Data:  </strong>
 
-<a href="http://en.coforce.cl/resultados_preliminares/paper_lopez.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
+<a href="http://coforce.cl/resultados_preliminares/paper_lopez.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Data accuracy and economic modelling
 
 - <strong> Energy Scenario: </strong>
 
-<a href="http://en.coforce.cl/resultados_preliminares/paper_garrido.html"><img src="paper_garrido.png" width="300" height="300" title="White flower" alt="Flower"></a>
+<a href="http://coforce.cl/resultados_preliminares/paper_garrido.html"><img src="paper_garrido.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Economic asssessment of the changes in the energy sources on the chilean mining sector
 
 </body>
