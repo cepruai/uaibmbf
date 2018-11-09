@@ -34,6 +34,9 @@ Methodology and design of a macro-econometric input-output model for the Chilean
 
 - <strong> Tax Scenarios:  </strong>
 
+<a href="http://coforce.cl/resultados_preliminares/paper_eberhard.html"><img src="paper_eberhard.png" width="300" height="300" title="White flower" alt="Flower"></a>
+The impact of the Special Mining Tax over key Variables of the Chilean Economy
+
 - <strong> Labor Data:  </strong>
 
 <a href="http://coforce.cl/resultados_preliminares/paper_lopez.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
