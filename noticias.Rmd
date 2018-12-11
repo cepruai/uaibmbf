@@ -21,6 +21,18 @@ p    {color: black;}
 
 #### <font face="Arial Black">  La minería de cobre en Chile - ¿el motor de la economía chilena? </font>
 
+# Seminario “Minería en Chile: Desafíos desde la perspectiva regional”
+
+El día Lunes 10 de diciembre se llevó a cabo el seminario “Minería en Chile: Desafíos desde la perspectiva regional” organizado por el equipo de investigadores del proyecto COFORCE y COCHILCO. Para esta ocasión, Juan Pedro Eberhard (académico de la UAI), Nicolás Garrido (académico de la UDP), Loreto Bieritz (GWS) y Jorge Cantallopts (COCHILCO) realizaron presentaciones en las que se discutieron los principales desafíos de la minería en las próximas décadas.
+
+Esta actividad fue auspiciada por BMBF-CONICYT en la línea del proyecto ”Development of Sustainable Mining Strategies in Chile with a Regionalized National Model”.
+
+
+# Investigadores del proyecto COFORCE workshop: “International Workshop on General Equilibrium Modeling”
+
+El 4 y 5 de Diciembre se llevó a cabo el “International Workshop on General Equilibrium Modeling” en donde investigadores del Centro de Economía y Política Regional (CEPR) de la UAI, de la Diego Portales, del Núcleo de Economía Regional e Urbana (NEREUS) de la Universidad de Sao Paulo e integrantes del Institute of Economic Structures Research (GWS) realizaron presentaciones de sus investigaciones en torno al desarrollo de modelos input-output y modelos de equilibrio general para Chile.
+
+
 # Investigadores del proyecto COFORCE presentan resultados de investigación en la 26th International Input-Output Conference (Junio 25-29, Brasil, Juiz de Fora)
  
 En la conferencia "26th International Input-Output Conference" realizada en Brasil entre el 25 y 29 de Junio, Patricio Aroca, Anke Mönnig, Nicolás Garrido y Esteban López han presentado parte de los resultados de la investigación del proyecto COFORCE. En esta conferencia se discutió sobre los principales resultados del modelo a escala nacional y se plantean los desafíos para la regionalización del modelo. 
