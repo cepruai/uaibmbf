@@ -38,6 +38,10 @@ Mira los resultados del proyecto COFORCE aquí:
 COFORCE – an IRIO Approach" alt="Flower"> 
 </a> Regionalisation of the Chilean Model COFORCE – an IRIO Approach
 
+<a href="/resultados_preliminares/Bieritz_Ecomod_final.pdf" download>
+        <img src="paper_bieritz.png"  width="300" height="300" title="The fragility of the copper demand for the chilean economy" alt="Flower"> 
+</a> The fragility of the copper demand for the chilean economy
+
 - <strong> Tax Scenarios:  </strong>
 
 <a href="/resultados_preliminares/The Impact of the Special Mining Tax JE v4.pdf" download>
