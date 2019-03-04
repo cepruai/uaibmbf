@@ -29,7 +29,7 @@ Mira los resultados del proyecto COFORCE aquí:
  
 - <strong> General Model: </strong>
 
- <a href="/resultados_preliminares/CU_CL_IIOA2018.pdf">Download     </a><img src="paper_anke.png" width="300" height="300" title="White flower" alt="Flower"></a>
+ <a href="/resultados_preliminares/CU_CL_IIOA2018.pdf"></a><img src="paper_anke.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Methodology and design of a macro-econometric input-output model for the Chilean economy
 
 <a href="http://coforce.cl/resultados_preliminares/paper_anke.html"><img src="paper_anke.png" width="300" height="300" title="White flower" alt="Flower"></a>
