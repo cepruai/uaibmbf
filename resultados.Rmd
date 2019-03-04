@@ -29,9 +29,14 @@ Mira los resultados del proyecto COFORCE aquí:
  
 - <strong> General Model: </strong>
 
-<a href="/resultados_preliminares/CU_CL_IIOA2018.pdf" download>
+<a href="/resultados_preliminares/Moennig_COFORCE-Methodology and Design.pdf" download>
         <img src="paper_anke.png"  width="300" height="300" title="Methodology and design of a macro-econometric input-output model for the Chilean economy" alt="Flower"> 
 </a> Methodology and design of a macro-econometric input-output model for the Chilean economy    
+
+<a href="/resultados_preliminares/Grossman_IRIO.pdf" download>
+        <img src="paper_grossmann.png"  width="300" height="300" title="Regionalisation of the Chilean Model
+COFORCE – an IRIO Approach" alt="Flower"> 
+</a> Regionalisation of the Chilean Model COFORCE – an IRIO Approach
 
 - <strong> Tax Scenarios:  </strong>
 
