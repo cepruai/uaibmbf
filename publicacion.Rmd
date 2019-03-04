@@ -47,7 +47,7 @@ Development of Sustainable Mining Strategies in Chile with a Regionalized Nation
 </td>
 
 <td>
- <a href="/publicaciones/gwspaper.pdf">Download      
+ <a href="/publicaciones/gwspaper.pdf">Descargar      
 </td>
 
 </tr>
@@ -62,7 +62,7 @@ The fragility of the copper demand for the Chilean economy.
 </td>
 
 <td>
- <a href="/preliminary_results/ECOMOD_Bieritz_CopperDemand_2018.pdf">Download      
+ <a href="/preliminary_results/ECOMOD_Bieritz_CopperDemand_2018.pdf">Descargar      
 </td>
 </tr>
 
@@ -76,7 +76,7 @@ Loreto Bieritz & Anke Mönnig
 La fragilidad de la demanda de cobre para la economía chilena
 </td>
 <td>
- <a href="/preliminary_results/Bieritz_SHAIO_2018_Copper Demand.pdf">Download      
+ <a href="/preliminary_results/Bieritz_SHAIO_2018_Copper Demand.pdf">Descargar      
 
 </td>
 </tr>
