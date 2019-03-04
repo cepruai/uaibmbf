@@ -40,18 +40,16 @@ Mira los resultados del proyecto COFORCE aquí:
 </a> The impact of the Special Mining Tax over key Variables of the Chilean Economy
 
 - <strong> Labor Data:  </strong>
+
 <a href="/resultados_preliminares/LaborMarketDataIssues.pdf" download>
         <img src="paper_lopez.png"  width="300" height="300" title="Data accuracy and economic modelling" alt="Flower"> </a> Data accuracy and economic modelling
 
 
-
-<a href="http://coforce.cl/resultados_preliminares/paper_lopez.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
-Data accuracy and economic modelling
-
 - <strong> Energy Scenario: </strong>
 
-<a href="http://coforce.cl/resultados_preliminares/paper_garrido.html"><img src="paper_garrido.png" width="300" height="300" title="White flower" alt="Flower"></a>
-Economic asssessment of the changes in the energy sources on the chilean mining sector
+<a href="/resultados_preliminares/Presentation IIOA.pdf" download>
+        <img src="paper_garrido.png"  width="300" height="300" title="Economic asssessment of the changes in the energy sources on the chilean mining sector" alt="Flower"> </a> Economic asssessment of the changes in the energy sources on the chilean mining sector
+        
 
 </body>
 </html>
