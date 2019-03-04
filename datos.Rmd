@@ -26,7 +26,7 @@ En los siguientes links se encuentran las siguientes bases de datos disponibles 
 
 <font face="Arial Black"> Bases de datos demográficas: </font> 
 
-- <a href="/datos/poblacionCEPAL.xlsx">Pronósticos demográficos </a> 
+- <a href="/DATOS/poblacionCEPAL.xlsx">Pronósticos demográficos </a> 
 
 <font face="Arial Black"> Bases de datos relacionadas a cuentas nacionales:  </font>
 
@@ -34,15 +34,15 @@ En los siguientes links se encuentran las siguientes bases de datos disponibles 
 
 <font face="Arial Black"> Matrices Insumo Producto: </font>
 
-- <a href="/datos/mip1986.XLS"> MIP 1986 </a> 
+- <a href="/DATOS/mip1986.XLS"> MIP 1986 </a> 
 
-- <a href="/datos/mip1996.xls"> MIP 1996 </a> 
+- <a href="/DATOS/mip1996.xls"> MIP 1996 </a> 
 
-- <a href="/datos/mip2003.xls"> MIP 2003 </a> 
+- <a href="/DATOS/mip2003.xls"> MIP 2003 </a> 
 
-- <a href="/datos/mip2008.xlsx"> MIP 2008 </a> 
+- <a href="/DATOS/mip2008.xlsx"> MIP 2008 </a> 
 
-- <a href="/datos/mip2013.xlsx"> MIP 2013 </a> 
+- <a href="/DATOS/mip2013.xlsx"> MIP 2013 </a> 
 
 
 <font face="Arial Black"> Variables Regionales </font>
