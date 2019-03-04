@@ -30,19 +30,20 @@ Mira los resultados del proyecto COFORCE aquí:
 - <strong> General Model: </strong>
 
 <a href="/resultados_preliminares/CU_CL_IIOA2018.pdf" download>
-        <img src="paper_anke.png"  width="300" height="300" title="White flower" alt="Flower"> 
+        <img src="paper_anke.png"  width="300" height="300" title="Methodology and design of a macro-econometric input-output model for the Chilean economy" alt="Flower"> 
 </a> Methodology and design of a macro-econometric input-output model for the Chilean economy    
 
 - <strong> Tax Scenarios:  </strong>
 
 <a href="/resultados_preliminares/The Impact of the Special Mining Tax JE v4.pdf" download>
-        <img src="paper_eberhard.png"  width="300" height="300" title="White flower" alt="Flower"> 
+        <img src="paper_eberhard.png"  width="300" height="300" title="The impact of the Special Mining Tax over key Variables of the Chilean Economy" alt="Flower"> 
 </a> The impact of the Special Mining Tax over key Variables of the Chilean Economy
 
-<a href="http://coforce.cl/resultados_preliminares/paper_eberhard.html"><img src="paper_eberhard.png" width="300" height="300" title="White flower" alt="Flower"></a>
-The impact of the Special Mining Tax over key Variables of the Chilean Economy
-
 - <strong> Labor Data:  </strong>
+<a href="/resultados_preliminares/LaborMarketDataIssues.pdf" download>
+        <img src="paper_lopez.png"  width="300" height="300" title="Data accuracy and economic modelling" alt="Flower"> </a> Data accuracy and economic modelling
+
+
 
 <a href="http://coforce.cl/resultados_preliminares/paper_lopez.html"><img src="paper_lopez.png" width="300" height="300" title="White flower" alt="Flower"></a>
 Data accuracy and economic modelling
