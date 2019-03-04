@@ -31,7 +31,7 @@ Mira los resultados del proyecto COFORCE aquí:
 
 <a href="/resultados_preliminares/CU_CL_IIOA2018.pdf" download>
         <img src="paper_anke.png"  width="300" height="300" title="White flower" alt="Flower"> 
-</a> Methodology and design of a macro-econometric input-output model for the Chilean economy
+</a> Methodology and design of a macro-econometric input-output model for the Chilean economy    
 
 - <strong> Tax Scenarios:  </strong>
 
