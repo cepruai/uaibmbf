@@ -42,7 +42,7 @@ En los siguientes links se encuentran las siguientes bases de datos disponibles 
 
 - <a href="/DATOS/mip2008.xlsx"> MIP 2008 </a> 
 
-- <a href="/DATOS/mip2013.xlsx"> MIP 2013 </a> 
+- <a href="/datos/mip2013.xlsx"> MIP 2013 </a> 
 
 
 <font face="Arial Black"> Variables Regionales </font>
